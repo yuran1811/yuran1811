@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fira+code&color=%2300CCCC&center=true&vCenter=true&multiline=true&height=100&lines=Hi+there+%F0%9F%91%8B;Welcome+to+my+Github+Profile;I'm+Yuran+-+a+Web+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fira+code&color=%2300CCCC&center=true&vCenter=true&multiline=true&width=1200&height=100&lines=Hi+there+%F0%9F%91%8B;Welcome+to+my+Github+Profile;I'm+Yuran+-+a+Web+Developer)](https://git.io/typing-svg)
 ![](https://komarev.com/ghpvc/?username=yuran1811&style=flat-square&color=00CCCC)
 
 ## My knowledge
@@ -42,6 +42,6 @@
 
 ## Github Status
 
-<p  align="center"> <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuran1811&layout=compact&theme=noctis_minimus&langs_count=6"> </p>
 <p  align="center"> <img  src="https://github-readme-stats.vercel.app/api?username=yuran1811&show_icons=true&theme=noctis_minimus"> </p>
+<p  align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuran1811&layout=compact&theme=noctis_minimus&langs_count=6"> </p>
 <p  align="center"> <img  src="https://metrics.lecoq.io/yuran1811"> </p>
