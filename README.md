@@ -17,6 +17,9 @@
 
 ## I have experience of using
 
+![Git](https://img.shields.io/badge/Git-f05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Github](https://img.shields.io/badge/Github-430086.svg?style=for-the-badge&logo=github&logoColor=white)
+
 ![Word](https://img.shields.io/badge/Word-2b579a?style=for-the-badge&logo=microsoftword&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-02713c?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![PowerPoint](https://img.shields.io/badge/PowerPoint-d04524?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white)
