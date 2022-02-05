@@ -17,6 +17,8 @@
 
 ## I have experience of using
 
+![Shotcut](https://img.shields.io/badge/Shotcut-105b76?style=for-the-badge&logo=shotcut&logoColor=white)
+
 ![Git](https://img.shields.io/badge/Git-f05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Github](https://img.shields.io/badge/Github-430086.svg?style=for-the-badge&logo=github&logoColor=white)
 
@@ -26,6 +28,7 @@
 
 ![Photoshop](https://img.shields.io/badge/Photoshop-2daaff?style=for-the-badge&logo=adobephotoshop&logoColor=001833)
 ![Illustrator](https://img.shields.io/badge/Illustrator-291200?style=for-the-badge&logo=adobeillustrator&logoColor=ff7900)
+![Figma](https://img.shields.io/badge/Figma-191a2e?style=for-the-badge&logo=figma&logoColor=fd6768)
 
 ## My Learning Plan
 
