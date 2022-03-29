@@ -1,0 +1,28 @@
+name: main
+
+on:
+    # Cho phép chạy bằng tay từ giao diện Github
+    workflow_dispatch:
+    # Lên lịch chạy hàng ngày vào lúc 00:00 UTC
+    schedule:
+        - cron: '0 0 * * *'
+
+jobs:
+    build:
+        runs-on: ubuntu-latest
+
+        steps:
+            - uses: actions/checkout@v2
+            - uses: actions/setup-node@v1
+              with:
+                  node-version: 16.13.1
+            - run: npm ci
+            - name: Generate quote
+              run: npm start
+            - name: Update README
+              run: |
+                  git config --global user.email "trieuvanbd123@gmail.com"
+                  git config --global user.name "yuran1811"
+                  git add .
+                  git commit -m "Updated README.md" || echo "No changes to commit"
+                  git push
