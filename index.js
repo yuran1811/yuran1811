@@ -3,8 +3,8 @@ import { createReadStream, createWriteStream, writeFileSync } from 'fs';
 
 const getQuote = async () => {
 	try {
-		const { data } = await axios.get('https://quotes.rest/qod?language=en');
-		return data.contents.quotes[0];
+		const { data } = await axios.get('https://api.quotable.io/random');
+		return data;
 	} catch (err) {
 		console.error(err.message);
 		return {};
@@ -12,21 +12,15 @@ const getQuote = async () => {
 };
 
 (async () => {
-	const { quote, author } = await getQuote();
-	if (!quote) return;
+	const { content, author } = await getQuote();
+	if (!content) return;
 
-	writeFileSync(
-		'README.md',
-		`_**${quote}**_\n\n${author}
-	
-`,
-		(err) => {
-			if (err) {
-				console.error(err);
-				return;
-			}
+	writeFileSync('README.md', `_**${content}**_\n\n${author}\n\n`, (err) => {
+		if (err) {
+			console.error(err);
+			return;
 		}
-	);
+	});
 
 	const src = createReadStream('info.md', {
 		flags: 'r',
