@@ -21,5 +21,5 @@
 ## Stats
 
 <div align="center">
-	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuran1811&layout=compact&theme=noctis_minimus&langs_count=8"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=yuran1811&show_icons=true&theme=noctis_minimus">
+	<img height="165" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuran1811&layout=compact&theme=noctis_minimus&langs_count=8"> <img height="165" align="center" src="https://github-readme-stats.vercel.app/api?username=yuran1811&show_icons=true&theme=noctis_minimus">
 </div>
