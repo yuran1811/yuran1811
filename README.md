@@ -1,6 +1,6 @@
-_**It is the quality of our work which will please God, not the quantity.**_
+_**Act as if what you do makes a difference. It does.**_
 
-Mahatma Gandhi
+William James
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fira+code&color=%2300CCCC&center=true&vCenter=true&multiline=true&size=32&width=1200&height=130&lines=Hi+there+%F0%9F%91%8B;Welcome+to+my+Github+Profile;I'm+Yuran+-+a+Web+Developer)](https://git.io/typing-svg)
 
