@@ -1,6 +1,6 @@
-_**I seek constantly to improve my manners and graces, for they are the sugar to which all are attracted.**_
+_**When you see a man of worth, think of how you may emulate him. When you see one who is unworthy, examine yourself.**_
 
-Og Mandino
+Confucius
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fira+code&color=%2300CCCC&center=true&vCenter=true&multiline=true&size=32&width=1200&height=130&lines=Hi+there+%F0%9F%91%8B;Welcome+to+my+Github+Profile;I'm+Yuran+-+a+Web+Developer)](https://git.io/typing-svg)
 
