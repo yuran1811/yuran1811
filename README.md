@@ -1,6 +1,6 @@
-_**To be tested is good. The challenged life may be the best therapist.**_
+_**Only when we are no longer afraid do we begin to live.**_
 
-Gail Sheehy
+Dorothy Thompson
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fira+code&color=%2300CCCC&center=true&vCenter=true&multiline=true&size=32&width=1200&height=130&lines=Hi+there+%F0%9F%91%8B;Welcome+to+my+Github+Profile;I'm+Yuran+-+a+Web+Developer)](https://git.io/typing-svg)
 
