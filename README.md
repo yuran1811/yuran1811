@@ -1,6 +1,6 @@
-_**The higher we are placed, the more humbly we should walk.**_
+_**The fox has many tricks. The hedgehog has but one. But that is the best of all.**_
 
-Cicero
+Erasmus
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fira+code&color=%2300CCCC&center=true&vCenter=true&multiline=true&size=32&width=1200&height=130&lines=Hi+there+%F0%9F%91%8B;Welcome+to+my+Github+Profile;I'm+Yuran+-+a+Web+Developer)](https://git.io/typing-svg)
 
