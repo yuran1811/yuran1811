@@ -1,4 +1,4 @@
-_**It is the nature of the wise to resist pleasures, but the foolish to be a slave to them.**_
+_**The key is to keep company only with people who uplift you, whose presence calls forth your best.**_
 
 Epictetus
 
