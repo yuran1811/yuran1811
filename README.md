@@ -1,6 +1,6 @@
-_**The key is to keep company only with people who uplift you, whose presence calls forth your best.**_
+_**Be here now. Be someplace else later. Is that so complicated?**_
 
-Epictetus
+David Bader
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fira+code&color=%2300CCCC&center=true&vCenter=true&multiline=true&size=32&width=1200&height=130&lines=Hi+there+%F0%9F%91%8B;Welcome+to+my+Github+Profile;I'm+Yuran+-+a+Web+Developer)](https://git.io/typing-svg)
 
