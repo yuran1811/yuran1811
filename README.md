@@ -1,6 +1,6 @@
-_**It is impossible to love and to be wise.**_
+_**Know how to listen, and you will profit even from those who talk badly.**_
 
-Francis Bacon
+Plutarch
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fira+code&color=%2300CCCC&center=true&vCenter=true&multiline=true&size=32&width=1200&height=130&lines=Hi+there+%F0%9F%91%8B;Welcome+to+my+Github+Profile;I'm+Yuran+-+a+Web+Developer)](https://git.io/typing-svg)
 
