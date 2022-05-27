@@ -1,6 +1,6 @@
-_**See the positive side, the potential, and make an effort.**_
+_**Peace is not something you wish for. It's something you make, something you do, something you are, and something you give away.**_
 
-Dalai Lama
+Robert Fulghum
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fira+code&color=%2300CCCC&center=true&vCenter=true&multiline=true&size=32&width=1200&height=130&lines=Hi+there+%F0%9F%91%8B;Welcome+to+my+Github+Profile;I'm+Yuran+-+a+Web+Developer)](https://git.io/typing-svg)
 
