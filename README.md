@@ -1,6 +1,6 @@
-_**When one door of happiness closes, another opens; but often we look so long at the closed door that we do not see the one which has been opened for us.**_
+_**In action a great heart is the chief qualification. In work, a great head.**_
 
-Helen Keller
+Arthur Schopenhauer
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fira+code&color=%2300CCCC&center=true&vCenter=true&multiline=true&size=32&width=1200&height=130&lines=Hi+there+%F0%9F%91%8B;Welcome+to+my+Github+Profile;I'm+Yuran+-+a+Web+Developer)](https://git.io/typing-svg)
 
