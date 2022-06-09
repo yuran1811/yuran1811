@@ -1,6 +1,6 @@
-_**In action a great heart is the chief qualification. In work, a great head.**_
+_**To listen well is as powerful a means of communication and influence as to talk well.**_
 
-Arthur Schopenhauer
+John Marshall
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fira+code&color=%2300CCCC&center=true&vCenter=true&multiline=true&size=32&width=1200&height=130&lines=Hi+there+%F0%9F%91%8B;Welcome+to+my+Github+Profile;I'm+Yuran+-+a+Web+Developer)](https://git.io/typing-svg)
 
