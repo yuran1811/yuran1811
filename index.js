@@ -15,7 +15,7 @@ const getQuote = async () => {
 	const { content, author } = await getQuote();
 	if (!content) return;
 
-	writeFileSync('README.md', `## _**${content}**_\n\n## ${author}\n\n`, (err) => {
+	writeFileSync('README.md', `> _**${content}**_ - ${author}\n\n`, (err) => {
 		if (err) {
 			console.error(err);
 			return;
