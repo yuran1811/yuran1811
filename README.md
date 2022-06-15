@@ -1,4 +1,4 @@
-> _**If you only have a hammer, you tend to see every problem as a nail.**_ - Abraham Maslow
+> _**The attempt to combine wisdom and power has only rarely been successful and then only for a short while.**_ - Albert Einstein
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fira+code&color=%2300CCCC&center=true&vCenter=true&multiline=true&size=32&width=1200&height=130&lines=Hi+there+%F0%9F%91%8B;Welcome+to+my+Github+Profile;I'm+Yuran+-+a+Web+Developer)](https://git.io/typing-svg) -->
 
