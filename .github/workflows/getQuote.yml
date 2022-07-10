@@ -1,6 +1,9 @@
 name: main
 
 on:
+    push:
+        branches:
+            - main
     # Chạy tay từ Github
     workflow_dispatch:
     # Chạy hàng ngày: 00:00 UTC
