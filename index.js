@@ -13,7 +13,7 @@ const getQuote = async () => {
 
 (async () => {
 	const { content, author } = await getQuote();
-	if (!content) return;
+	if (!content || !author) return;
 
 	writeFileSync('README.md', `> _**${content}**_ - ${author}\n\n`, (err) => {
 		if (err) {

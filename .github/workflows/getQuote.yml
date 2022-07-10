@@ -1,9 +1,9 @@
 name: main
 
 on:
-    # Cho phép chạy bằng tay từ giao diện Github
+    # Chạy tay từ Github
     workflow_dispatch:
-    # Lên lịch chạy hàng ngày vào lúc 00:00 UTC
+    # Chạy hàng ngày: 00:00 UTC
     schedule:
         - cron: '0 0 * * *'
 
