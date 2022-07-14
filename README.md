@@ -1,4 +1,4 @@
-> _**Never make friends with people who are above or below you in status. Such friendships will never give you any happiness.**_ - Chanakya
+> _**Wisdom is oftentimes nearer when we stoop than when we soar.**_ - William Wordsworth
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fira+code&color=%2300CCCC&center=true&vCenter=true&multiline=true&size=32&width=1200&height=130&lines=Hi+there+%F0%9F%91%8B;Welcome+to+my+Github+Profile;I'm+Yuran+-+a+Web+Developer)](https://git.io/typing-svg) -->
 
