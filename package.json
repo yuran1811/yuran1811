@@ -1,11 +1,11 @@
 {
-	"name": "yuran1811",
-	"main": "index.js",
-	"type": "module",
-	"scripts": {
-		"start": "node index.js"
-	},
-	"dependencies": {
-		"axios": "^0.26.1"
-	}
+  "name": "yuran1811",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^0.26.1"
+  }
 }
