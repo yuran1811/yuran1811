@@ -1,4 +1,4 @@
-> _**When you see a good person, think of becoming like him. When you see someone not so good, reflect on your own weak points.**_ - Confucius
+> _**I think somehow, we learn who we really are and then live with that decision.**_ - Eleanor Roosevelt
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fira+code&color=%2300CCCC&center=true&vCenter=true&multiline=true&size=32&width=1200&height=130&lines=Hi+there+%F0%9F%91%8B;Welcome+to+my+Github+Profile;I'm+Yuran+-+a+Web+Developer)](https://git.io/typing-svg) -->
 
