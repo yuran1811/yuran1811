@@ -1,4 +1,4 @@
-> _**The greatest discovery of our generation is that human beings can alter their lives by altering their attitudes of mind. As you think, so shall you be.**_ - William James
+> _**His lack of education is more than compensated for by his keenly developed moral bankruptcy.**_ - Woody Allen
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fira+code&color=%2300CCCC&center=true&vCenter=true&multiline=true&size=32&width=1200&height=130&lines=Hi+there+%F0%9F%91%8B;Welcome+to+my+Github+Profile;I'm+Yuran+-+a+Web+Developer)](https://git.io/typing-svg) -->
 
