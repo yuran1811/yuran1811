@@ -1,4 +1,4 @@
-> _**Use what talents you possess; the woods would be very silent if no birds sang there except those that sang best.**_ - Henry van Dyke Jr.
+> _**It is the province of knowledge to speak, and it is the privilege of wisdom to listen.**_ - Oliver Wendell Holmes Jr.
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fira+code&color=%2300CCCC&center=true&vCenter=true&multiline=true&size=32&width=1200&height=130&lines=Hi+there+%F0%9F%91%8B;Welcome+to+my+Github+Profile;I'm+Yuran+-+a+Web+Developer)](https://git.io/typing-svg) -->
 
