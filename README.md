@@ -1,4 +1,4 @@
-> _**Not every difficult and dangerous thing is suitable for training, but only that which is conducive to success in achieving the object of our effort.**_ - Epictetus
+> _**Adopt the pace of nature: her secret is patience.**_ - Ralph Waldo Emerson
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fira+code&color=%2300CCCC&center=true&vCenter=true&multiline=true&size=32&width=1200&height=130&lines=Hi+there+%F0%9F%91%8B;Welcome+to+my+Github+Profile;I'm+Yuran+-+a+Web+Developer)](https://git.io/typing-svg) -->
 
