@@ -1,4 +1,4 @@
-> _**A wise man can learn more from a foolish question than a fool can learn from a wise answer.**_ - Bruce Lee
+> _**Three things cannot be long hidden: the sun, the moon, and the truth.**_ - Buddha
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fira+code&color=%2300CCCC&center=true&vCenter=true&multiline=true&size=32&width=1200&height=130&lines=Hi+there+%F0%9F%91%8B;Welcome+to+my+Github+Profile;I'm+Yuran+-+a+Web+Developer)](https://git.io/typing-svg) -->
 
