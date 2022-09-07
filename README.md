@@ -1,4 +1,4 @@
-> _**Face your deficiencies and acknowledge them; but do not let them master you. Let them teach you patience, sweetness, insight.**_ - Helen Keller
+> _**Six essential qualities that are the key to success: Sincerity, personal integrity, humility, courtesy, wisdom, charity.**_ - William C. Menninger
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fira+code&color=%2300CCCC&center=true&vCenter=true&multiline=true&size=32&width=1200&height=130&lines=Hi+there+%F0%9F%91%8B;Welcome+to+my+Github+Profile;I'm+Yuran+-+a+Web+Developer)](https://git.io/typing-svg) -->
 
