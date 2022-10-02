@@ -1,4 +1,4 @@
-> _**There are two ways of spreading light: to be the candle or the mirror that reflects it.**_ - Edith Wharton
+> _**Our lives are a sum total of the choices we have made.**_ - Wayne Dyer
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fira+code&color=%2300CCCC&center=true&vCenter=true&multiline=true&size=32&width=1200&height=130&lines=Hi+there+%F0%9F%91%8B;Welcome+to+my+Github+Profile;I'm+Yuran+-+a+Web+Developer)](https://git.io/typing-svg) -->
 
