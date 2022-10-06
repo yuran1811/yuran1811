@@ -1,4 +1,4 @@
-> _**There is no scarcity of opportunity to make a living at what you love; there's only scarcity of resolve to make it happen.**_ - Wayne Dyer
+> _**Our virtues and our failings are inseparable, like force and matter. When they separate, man is no more.**_ - Nikola Tesla
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fira+code&color=%2300CCCC&center=true&vCenter=true&multiline=true&size=32&width=1200&height=130&lines=Hi+there+%F0%9F%91%8B;Welcome+to+my+Github+Profile;I'm+Yuran+-+a+Web+Developer)](https://git.io/typing-svg) -->
 
