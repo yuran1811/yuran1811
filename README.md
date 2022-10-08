@@ -1,4 +1,4 @@
-> _**Success consists of going from failure to failure without loss of enthusiasm.**_ - Winston Churchill
+> _**I have learned that friendship isn't about who you've known the longest, it's about who came and never left your side.**_ - Yolanda Hadid
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fira+code&color=%2300CCCC&center=true&vCenter=true&multiline=true&size=32&width=1200&height=130&lines=Hi+there+%F0%9F%91%8B;Welcome+to+my+Github+Profile;I'm+Yuran+-+a+Web+Developer)](https://git.io/typing-svg) -->
 
