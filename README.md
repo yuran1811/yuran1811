@@ -1,4 +1,4 @@
-> _**Quality is never an accident; it is always the result of intelligent effort.**_ - John Ruskin
+> _**In the sky, there is no distinction of east and west; people create distinctions out of their own minds and then believe them to be true.**_ - Buddha
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fira+code&color=%2300CCCC&center=true&vCenter=true&multiline=true&size=32&width=1200&height=130&lines=Hi+there+%F0%9F%91%8B;Welcome+to+my+Github+Profile;I'm+Yuran+-+a+Web+Developer)](https://git.io/typing-svg) -->
 
