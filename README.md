@@ -1,4 +1,4 @@
-> _**I cannot give you the formula for success, but I can give you the formula for failure: which is: Try to please everybody.**_ - Herbert Bayard Swope
+> _**How far that little candle throws its beams! So shines a good deed in a naughty world.**_ - William Shakespeare
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fira+code&color=%2300CCCC&center=true&vCenter=true&multiline=true&size=32&width=1200&height=130&lines=Hi+there+%F0%9F%91%8B;Welcome+to+my+Github+Profile;I'm+Yuran+-+a+Web+Developer)](https://git.io/typing-svg) -->
 
