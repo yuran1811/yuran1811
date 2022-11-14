@@ -1,4 +1,4 @@
-> _**How far that little candle throws its beams! So shines a good deed in a naughty world.**_ - William Shakespeare
+> _**Mountains cannot be surmounted except by winding paths.**_ - Johann Wolfgang von Goethe
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fira+code&color=%2300CCCC&center=true&vCenter=true&multiline=true&size=32&width=1200&height=130&lines=Hi+there+%F0%9F%91%8B;Welcome+to+my+Github+Profile;I'm+Yuran+-+a+Web+Developer)](https://git.io/typing-svg) -->
 
