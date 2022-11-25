@@ -1,4 +1,4 @@
-> _**Do good by stealth, and blush to find it fame.**_ - Alexander Pope
+> _**Sometimes the most important thing in a whole day is the rest we take between two deep breaths.**_ - Etty Hillesum
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fira+code&color=%2300CCCC&center=true&vCenter=true&multiline=true&size=32&width=1200&height=130&lines=Hi+there+%F0%9F%91%8B;Welcome+to+my+Github+Profile;I'm+Yuran+-+a+Web+Developer)](https://git.io/typing-svg) -->
 
