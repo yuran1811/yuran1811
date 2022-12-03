@@ -1,4 +1,4 @@
-> _**Do the difficult things while they are easy and do the great things while they are small. A journey of a thousand miles must begin with a single step.**_ - Laozi
+> _**Each misfortune you encounter will carry in it the seed of tomorrows good luck.**_ - Og Mandino
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fira+code&color=%2300CCCC&center=true&vCenter=true&multiline=true&size=32&width=1200&height=130&lines=Hi+there+%F0%9F%91%8B;Welcome+to+my+Github+Profile;I'm+Yuran+-+a+Web+Developer)](https://git.io/typing-svg) -->
 
