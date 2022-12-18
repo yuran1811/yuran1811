@@ -1,4 +1,4 @@
-> _**Business, you know, may bring you money, but friendship hardly ever does.**_ - Jane Austen
+> _**We must learn our limits. We are all something, but none of us are everything.**_ - Blaise Pascal
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fira+code&color=%2300CCCC&center=true&vCenter=true&multiline=true&size=32&width=1200&height=130&lines=Hi+there+%F0%9F%91%8B;Welcome+to+my+Github+Profile;I'm+Yuran+-+a+Web+Developer)](https://git.io/typing-svg) -->
 
