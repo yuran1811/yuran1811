@@ -1,4 +1,4 @@
-> _**The best and most beautiful things in the world cannot be seen, nor touched... but are felt in the heart.**_ - Helen Keller
+> _**Intuition will tell the thinking mind where to look next.**_ - Jonas Salk
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fira+code&color=%2300CCCC&center=true&vCenter=true&multiline=true&size=32&width=1200&height=130&lines=Hi+there+%F0%9F%91%8B;Welcome+to+my+Github+Profile;I'm+Yuran+-+a+Web+Developer)](https://git.io/typing-svg) -->
 
