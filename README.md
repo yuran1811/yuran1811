@@ -1,4 +1,4 @@
-> _**You give before you get.**_ - Napoleon Hill
+> _**The friend who can be silent with us in a moment of despair or confusion, who can stay with us in an hour of grief and bereavement, who can tolerate not knowing... not healing, not curing... that is a friend who cares.**_ - Henri Nouwen
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fira+code&color=%2300CCCC&center=true&vCenter=true&multiline=true&size=32&width=1200&height=130&lines=Hi+there+%F0%9F%91%8B;Welcome+to+my+Github+Profile;I'm+Yuran+-+a+Web+Developer)](https://git.io/typing-svg) -->
 
