@@ -1,4 +1,4 @@
-> _**I think that we have a great opportunity to impart our wisdom and our knowledge and our experience to this younger generation. It may be different times, but experience transcends time, and wisdom transcends time.**_ - Victoria Osteen
+> _**Freedom is not worth having if it does not connote freedom to err.**_ - Mahatma Gandhi
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fira+code&color=%2300CCCC&center=true&vCenter=true&multiline=true&size=32&width=1200&height=130&lines=Hi+there+%F0%9F%91%8B;Welcome+to+my+Github+Profile;I'm+Yuran+-+a+Web+Developer)](https://git.io/typing-svg) -->
 
