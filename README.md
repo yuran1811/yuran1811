@@ -1,4 +1,4 @@
-> _**Correction does much, but encouragement does more.**_ - Johann Wolfgang von Goethe
+> _**You will never be happy if you continue to search for what happiness consists of. You will never live if you are looking for the meaning of life.**_ - Albert Camus
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fira+code&color=%2300CCCC&center=true&vCenter=true&multiline=true&size=32&width=1200&height=130&lines=Hi+there+%F0%9F%91%8B;Welcome+to+my+Github+Profile;I'm+Yuran+-+a+Web+Developer)](https://git.io/typing-svg) -->
 
