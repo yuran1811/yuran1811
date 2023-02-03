@@ -1,4 +1,4 @@
-> _**Be glad of life because it gives you the chance to love, to work, to play, and to look up at the stars.**_ - Henry van Dyke Jr.
+> _**Truth is powerful and it prevails.**_ - Sojourner Truth
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fira+code&color=%2300CCCC&center=true&vCenter=true&multiline=true&size=32&width=1200&height=130&lines=Hi+there+%F0%9F%91%8B;Welcome+to+my+Github+Profile;I'm+Yuran+-+a+Web+Developer)](https://git.io/typing-svg) -->
 
