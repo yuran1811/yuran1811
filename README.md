@@ -1,4 +1,4 @@
-> _**One fails forward toward success.**_ - Charles F. Kettering
+> _**I love my past. I love my present. I'm not ashamed of what I've had, and I'm not sad because I have it no longer.**_ - Colette
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fira+code&color=%2300CCCC&center=true&vCenter=true&multiline=true&size=32&width=1200&height=130&lines=Hi+there+%F0%9F%91%8B;Welcome+to+my+Github+Profile;I'm+Yuran+-+a+Web+Developer)](https://git.io/typing-svg) -->
 
