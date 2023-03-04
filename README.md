@@ -1,4 +1,4 @@
-> _**Every time you smile at someone, it is an action of love, a gift to that person, a beautiful thing.**_ - Mother Teresa
+> _**We cannot do everything at once, but we can do something at once.**_ - Calvin Coolidge
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fira+code&color=%2300CCCC&center=true&vCenter=true&multiline=true&size=32&width=1200&height=130&lines=Hi+there+%F0%9F%91%8B;Welcome+to+my+Github+Profile;I'm+Yuran+-+a+Web+Developer)](https://git.io/typing-svg) -->
 
