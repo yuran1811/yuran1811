@@ -1,4 +1,4 @@
-> _**I believe that we are fundamentally the same and have the same basic potential.**_ - Dalai Lama
+> _**The trick is in what one emphasizes. We either make ourselves miserable, or we make ourselves happy. The amount of work is the same.**_ - Carlos Castaneda
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fira+code&color=%2300CCCC&center=true&vCenter=true&multiline=true&size=32&width=1200&height=130&lines=Hi+there+%F0%9F%91%8B;Welcome+to+my+Github+Profile;I'm+Yuran+-+a+Web+Developer)](https://git.io/typing-svg) -->
 
