@@ -1,4 +1,4 @@
-> _**The dream was always running ahead of me. To catch up, to live for a moment in unison with it, that was the miracle.**_ - Anaïs Nin
+> _**Technology… is a queer thing. It brings you great gifts with one hand, and it stabs you in the back with the other.**_ - Carrie Snow
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fira+code&color=%2300CCCC&center=true&vCenter=true&multiline=true&size=32&width=1200&height=130&lines=Hi+there+%F0%9F%91%8B;Welcome+to+my+Github+Profile;I'm+Yuran+-+a+Web+Developer)](https://git.io/typing-svg) -->
 
