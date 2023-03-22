@@ -1,4 +1,4 @@
-> _**It's important to know that words don't move mountains. Work, exacting work moves mountains.**_ - Danilo Dolci
+> _**The man who makes everything that leads to happiness depends upon himself, and not upon other men, has adopted the very best plan for living happily. This is the man of moderation, the man of manly character and of wisdom.**_ - Plato
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fira+code&color=%2300CCCC&center=true&vCenter=true&multiline=true&size=32&width=1200&height=130&lines=Hi+there+%F0%9F%91%8B;Welcome+to+my+Github+Profile;I'm+Yuran+-+a+Web+Developer)](https://git.io/typing-svg) -->
 
