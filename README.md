@@ -1,4 +1,4 @@
-> _**You can't cross the sea merely by standing and staring at the water.**_ - Rabindranath Tagore
+> _**Do you want to know who you are? Don't ask. Act! Action will delineate and define you.**_ - Thomas Jefferson
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fira+code&color=%2300CCCC&center=true&vCenter=true&multiline=true&size=32&width=1200&height=130&lines=Hi+there+%F0%9F%91%8B;Welcome+to+my+Github+Profile;I'm+Yuran+-+a+Web+Developer)](https://git.io/typing-svg) -->
 
