@@ -1,4 +1,4 @@
-> _**Friendship is the source of the greatest pleasures, and without friends even the most agreeable pursuits become tedious.**_ - Thomas Aquinas
+> _**We are what we repeatedly do. Excellence, then, is not an act, but a habit.**_ - Aristotle
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fira+code&color=%2300CCCC&center=true&vCenter=true&multiline=true&size=32&width=1200&height=130&lines=Hi+there+%F0%9F%91%8B;Welcome+to+my+Github+Profile;I'm+Yuran+-+a+Web+Developer)](https://git.io/typing-svg) -->
 
