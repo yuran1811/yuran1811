@@ -1,4 +1,4 @@
-> _**It is in your moments of decision that your destiny is shaped.**_ - Tony Robbins
+> _**Trying to sneak a fastball past Hank Aaron is like trying to sneak the sunrise past a rooster.**_ - Joe Adcock
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fira+code&color=%2300CCCC&center=true&vCenter=true&multiline=true&size=32&width=1200&height=130&lines=Hi+there+%F0%9F%91%8B;Welcome+to+my+Github+Profile;I'm+Yuran+-+a+Web+Developer)](https://git.io/typing-svg) -->
 
