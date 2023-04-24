@@ -1,4 +1,4 @@
-> _**Friendship is almost always the union of a part of one mind with the part of another; people are friends in spots.**_ - George Santayana
+> _**You and I are all as much continuous with the physical universe as a wave is continuous with the ocean.**_ - Alan Watts
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fira+code&color=%2300CCCC&center=true&vCenter=true&multiline=true&size=32&width=1200&height=130&lines=Hi+there+%F0%9F%91%8B;Welcome+to+my+Github+Profile;I'm+Yuran+-+a+Web+Developer)](https://git.io/typing-svg) -->
 
