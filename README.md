@@ -1,4 +1,4 @@
-> _**Never accept ultimatums, conventional wisdom, or absolutes.**_ - Christopher Reeve
+> _**Try not to become a man of success, but rather try to become a man of value.**_ - Albert Einstein
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fira+code&color=%2300CCCC&center=true&vCenter=true&multiline=true&size=32&width=1200&height=130&lines=Hi+there+%F0%9F%91%8B;Welcome+to+my+Github+Profile;I'm+Yuran+-+a+Web+Developer)](https://git.io/typing-svg) -->
 
