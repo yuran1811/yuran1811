@@ -1,4 +1,4 @@
-> _**There are two ways to slide easily through life: to believe everything or to doubt everything; both ways save us from thinking.**_ - Alfred Korzybski
+> _**It requires wisdom to understand wisdom: the music is nothing if the audience is deaf.**_ - Walter Lippmann
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fira+code&color=%2300CCCC&center=true&vCenter=true&multiline=true&size=32&width=1200&height=130&lines=Hi+there+%F0%9F%91%8B;Welcome+to+my+Github+Profile;I'm+Yuran+-+a+Web+Developer)](https://git.io/typing-svg) -->
 
