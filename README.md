@@ -1,4 +1,4 @@
-> _**There is not one big cosmic meaning for all, there is only the meaning we each give to our life.**_ - Anaïs Nin
+> _**The past has no power to stop you from being present now. Only your grievance about the past can do that.**_ - Eckhart Tolle
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fira+code&color=%2300CCCC&center=true&vCenter=true&multiline=true&size=32&width=1200&height=130&lines=Hi+there+%F0%9F%91%8B;Welcome+to+my+Github+Profile;I'm+Yuran+-+a+Web+Developer)](https://git.io/typing-svg) -->
 
