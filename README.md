@@ -1,4 +1,4 @@
-> _**People are so constituted that everybody would rather undertake what they see others do, whether they have an aptitude for it or not.**_ - Johann Wolfgang von Goethe
+> _**Nothing will work unless you do.**_ - Maya Angelou
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fira+code&color=%2300CCCC&center=true&vCenter=true&multiline=true&size=32&width=1200&height=130&lines=Hi+there+%F0%9F%91%8B;Welcome+to+my+Github+Profile;I'm+Yuran+-+a+Web+Developer)](https://git.io/typing-svg) -->
 
