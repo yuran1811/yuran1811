@@ -1,4 +1,4 @@
-> _**I had three chairs in my house; one for solitude, two for friendship, three for society.**_ - Henry David Thoreau
+> _**You can observe a lot just by watching.**_ - Yogi Berra
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fira+code&color=%2300CCCC&center=true&vCenter=true&multiline=true&size=32&width=1200&height=130&lines=Hi+there+%F0%9F%91%8B;Welcome+to+my+Github+Profile;I'm+Yuran+-+a+Web+Developer)](https://git.io/typing-svg) -->
 
