@@ -1,4 +1,4 @@
-> _**Of course there is no formula for success except perhaps an unconditional acceptance of life and what it brings.**_ - Arthur Rubinstein
+> _**Wisdom is the reward you get for a lifetime of listening when you'd have preferred to talk.**_ - Doug Larson
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fira+code&color=%2300CCCC&center=true&vCenter=true&multiline=true&size=32&width=1200&height=130&lines=Hi+there+%F0%9F%91%8B;Welcome+to+my+Github+Profile;I'm+Yuran+-+a+Web+Developer)](https://git.io/typing-svg) -->
 
