@@ -1,4 +1,4 @@
-> _**Some people thrive on huge, dramatic change. Some people prefer the slow and steady route. Do what's right for you.**_ - Julie Morgenstern
+> _**Do not turn back when you are just at the goal.**_ - Publilius Syrus
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fira+code&color=%2300CCCC&center=true&vCenter=true&multiline=true&size=32&width=1200&height=130&lines=Hi+there+%F0%9F%91%8B;Welcome+to+my+Github+Profile;I'm+Yuran+-+a+Web+Developer)](https://git.io/typing-svg) -->
 
