@@ -1,4 +1,4 @@
-> _**At the center of your being, you have the answer; you know who you are, and you know what you want.**_ - Laozi
+> _**One is not called noble who harms living beings. By not harming living beings one is called noble.**_ - The Buddha
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fira+code&color=%2300CCCC&center=true&vCenter=true&multiline=true&size=32&width=1200&height=130&lines=Hi+there+%F0%9F%91%8B;Welcome+to+my+Github+Profile;I'm+Yuran+-+a+Web+Developer)](https://git.io/typing-svg) -->
 
