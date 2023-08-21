@@ -1,4 +1,4 @@
-> _**A fine quotation is a diamond on the finger of a man of wit, and a pebble in the hand of a fool.**_ - Joseph Roux
+> _**The greatest good you can do for another is not just share your riches but reveal to them their own.**_ - Benjamin Disraeli
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fira+code&color=%2300CCCC&center=true&vCenter=true&multiline=true&size=32&width=1200&height=130&lines=Hi+there+%F0%9F%91%8B;Welcome+to+my+Github+Profile;I'm+Yuran+-+a+Web+Developer)](https://git.io/typing-svg) -->
 
