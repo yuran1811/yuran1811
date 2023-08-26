@@ -1,4 +1,4 @@
-> _**There is only one boss. The customer. And he can fire everybody in the company from the chairman on down, simply by spending his money somewhere else.**_ - Sam Walton
+> _**Not all those who wander are lost.**_ - J. R. R. Tolkien
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fira+code&color=%2300CCCC&center=true&vCenter=true&multiline=true&size=32&width=1200&height=130&lines=Hi+there+%F0%9F%91%8B;Welcome+to+my+Github+Profile;I'm+Yuran+-+a+Web+Developer)](https://git.io/typing-svg) -->
 
