@@ -1,4 +1,4 @@
-> _**In times of change, learners inherit the earth, while the learned find themselves beautifully equipped to deal with a world that no longer exists.**_ - Eric Hoffer
+> _**I prefer to be true to myself, even at the hazard of incurring the ridicule of others, rather than to be false, and to incur my own abhorrence.**_ - Frederick Douglass
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fira+code&color=%2300CCCC&center=true&vCenter=true&multiline=true&size=32&width=1200&height=130&lines=Hi+there+%F0%9F%91%8B;Welcome+to+my+Github+Profile;I'm+Yuran+-+a+Web+Developer)](https://git.io/typing-svg) -->
 
