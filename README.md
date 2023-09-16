@@ -1,4 +1,4 @@
-> _**Work while you have the light. You are responsible for the talent that has been entrusted to you.**_ - Henri-Frédéric Amiel
+> _**All perceiving is also thinking, all reasoning is also intuition, all observation is also invention.**_ - Rudolf Arnheim
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fira+code&color=%2300CCCC&center=true&vCenter=true&multiline=true&size=32&width=1200&height=130&lines=Hi+there+%F0%9F%91%8B;Welcome+to+my+Github+Profile;I'm+Yuran+-+a+Web+Developer)](https://git.io/typing-svg) -->
 
