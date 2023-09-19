@@ -1,4 +1,4 @@
-> _**Friendship is essentially a partnership.**_ - Aristotle
+> _**Let us resolve to be masters, not the victims, of our history, controlling our own destiny without giving way to blind suspicions and emotions.**_ - John F. Kennedy
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fira+code&color=%2300CCCC&center=true&vCenter=true&multiline=true&size=32&width=1200&height=130&lines=Hi+there+%F0%9F%91%8B;Welcome+to+my+Github+Profile;I'm+Yuran+-+a+Web+Developer)](https://git.io/typing-svg) -->
 
