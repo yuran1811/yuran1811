@@ -1,4 +1,4 @@
-> _**No one has a finer command of language than the person who keeps his mouth shut.**_ - Sam Rayburn
+> _**The sum of wisdom is that time is never lost that is devoted to work.**_ - Ralph Waldo Emerson
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fira+code&color=%2300CCCC&center=true&vCenter=true&multiline=true&size=32&width=1200&height=130&lines=Hi+there+%F0%9F%91%8B;Welcome+to+my+Github+Profile;I'm+Yuran+-+a+Web+Developer)](https://git.io/typing-svg) -->
 
