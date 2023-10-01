@@ -1,4 +1,4 @@
-> _**The sum of wisdom is that time is never lost that is devoted to work.**_ - Ralph Waldo Emerson
+> _**True wisdom comes to each of us when we realize how little we understand about life, ourselves, and the world around us.**_ - Isocrates
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fira+code&color=%2300CCCC&center=true&vCenter=true&multiline=true&size=32&width=1200&height=130&lines=Hi+there+%F0%9F%91%8B;Welcome+to+my+Github+Profile;I'm+Yuran+-+a+Web+Developer)](https://git.io/typing-svg) -->
 
