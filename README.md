@@ -1,4 +1,4 @@
-> _**All action results from thought, so it is thoughts that matter.**_ - Sai Baba
+> _**When I do good I feel good, when I do bad I feel bad, and that's my religion.**_ - Abraham Lincoln
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fira+code&color=%2300CCCC&center=true&vCenter=true&multiline=true&size=32&width=1200&height=130&lines=Hi+there+%F0%9F%91%8B;Welcome+to+my+Github+Profile;I'm+Yuran+-+a+Web+Developer)](https://git.io/typing-svg) -->
 
