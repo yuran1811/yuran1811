@@ -1,4 +1,4 @@
-> _**I never think of the future - it comes soon enough.**_ - Albert Einstein
+> _**Life is a travelling to the edge of knowledge, then a leap taken.**_ - Laurence J. Peter
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fira+code&color=%2300CCCC&center=true&vCenter=true&multiline=true&size=32&width=1200&height=130&lines=Hi+there+%F0%9F%91%8B;Welcome+to+my+Github+Profile;I'm+Yuran+-+a+Web+Developer)](https://git.io/typing-svg) -->
 
