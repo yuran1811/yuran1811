@@ -1,4 +1,4 @@
-> _**The greatest way to live with honor in this world is to be what we pretend to be.**_ - Socrates
+> _**Motivation is the art of getting people to do what you want them to do because they want to do it.**_ - Dwight D. Eisenhower
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fira+code&color=%2300CCCC&center=true&vCenter=true&multiline=true&size=32&width=1200&height=130&lines=Hi+there+%F0%9F%91%8B;Welcome+to+my+Github+Profile;I'm+Yuran+-+a+Web+Developer)](https://git.io/typing-svg) -->
 
