@@ -1,4 +1,4 @@
-> _**Practice yourself, for heaven's sake in little things, and then proceed to greater.**_ - Epictetus
+> _**The free man is he who does not fear to go to the end of his thought.**_ - Léon Blum
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fira+code&color=%2300CCCC&center=true&vCenter=true&multiline=true&size=32&width=1200&height=130&lines=Hi+there+%F0%9F%91%8B;Welcome+to+my+Github+Profile;I'm+Yuran+-+a+Web+Developer)](https://git.io/typing-svg) -->
 
