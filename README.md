@@ -1,4 +1,4 @@
-> _**The greatest pleasure I know is to do a good action by stealth, and to have it found out by accident.**_ - Charles Lamb
+> _**Go to your bosom: Knock there and ask your heart what it doth know.**_ - William Shakespeare
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fira+code&color=%2300CCCC&center=true&vCenter=true&multiline=true&size=32&width=1200&height=130&lines=Hi+there+%F0%9F%91%8B;Welcome+to+my+Github+Profile;I'm+Yuran+-+a+Web+Developer)](https://git.io/typing-svg) -->
 
