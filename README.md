@@ -1,4 +1,4 @@
-> _**Half the lies they tell about me aren't true.**_ - Yogi Berra
+> _**Do not scorn what you have received, nor envy the gains of others. He who envies others does not obtain peace of mind.**_ - The Buddha
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fira+code&color=%2300CCCC&center=true&vCenter=true&multiline=true&size=32&width=1200&height=130&lines=Hi+there+%F0%9F%91%8B;Welcome+to+my+Github+Profile;I'm+Yuran+-+a+Web+Developer)](https://git.io/typing-svg) -->
 
