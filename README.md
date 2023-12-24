@@ -1,4 +1,4 @@
-> _**If you live to be a hundred, I want to live to be a hundred minus one day, so I never have to live without you.**_ - A. A. Milne
+> _**Work for something because it is good, not just because it stands a chance to succeed.**_ - Václav Havel
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fira+code&color=%2300CCCC&center=true&vCenter=true&multiline=true&size=32&width=1200&height=130&lines=Hi+there+%F0%9F%91%8B;Welcome+to+my+Github+Profile;I'm+Yuran+-+a+Web+Developer)](https://git.io/typing-svg) -->
 
