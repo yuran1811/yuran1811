@@ -1,4 +1,4 @@
-> _**I don't turn to greeting cards for wisdom and advice, but they are a fine reflection of the general drift of the culture.**_ - Susan Orlean
+> _**Quick decisions are unsafe decisions.**_ - Sophocles
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fira+code&color=%2300CCCC&center=true&vCenter=true&multiline=true&size=32&width=1200&height=130&lines=Hi+there+%F0%9F%91%8B;Welcome+to+my+Github+Profile;I'm+Yuran+-+a+Web+Developer)](https://git.io/typing-svg) -->
 
