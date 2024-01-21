@@ -1,4 +1,4 @@
-> _**Our intention creates our reality.**_ - Wayne Dyer
+> _**Only through our connectedness to others can we really know and enhance the self. And only through working on the self can we begin to enhance our connectedness to others.**_ - Harriet Lerner
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fira+code&color=%2300CCCC&center=true&vCenter=true&multiline=true&size=32&width=1200&height=130&lines=Hi+there+%F0%9F%91%8B;Welcome+to+my+Github+Profile;I'm+Yuran+-+a+Web+Developer)](https://git.io/typing-svg) -->
 
