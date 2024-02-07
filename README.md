@@ -1,4 +1,4 @@
-> _**If we are not given the chance to forget, we are also not given the chance to recover our memories, to alter them with time, perspective, and wisdom. Forgetting, we can be ourselves beyond what the past has told us we are; we can evolve. That is the possibility we want from the future.**_ - Caterina Fake
+> _**Liberty, taking the word in its concrete sense, consists in the ability to choose.**_ - Simone Weil
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fira+code&color=%2300CCCC&center=true&vCenter=true&multiline=true&size=32&width=1200&height=130&lines=Hi+there+%F0%9F%91%8B;Welcome+to+my+Github+Profile;I'm+Yuran+-+a+Web+Developer)](https://git.io/typing-svg) -->
 
