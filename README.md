@@ -1,4 +1,4 @@
-> _**Friendship at first sight, like love at first sight, is said to be the only truth.**_ - Herman Melville
+> _**The more you like yourself, the less you are like anyone else, which makes you unique.**_ - Walt Disney
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fira+code&color=%2300CCCC&center=true&vCenter=true&multiline=true&size=32&width=1200&height=130&lines=Hi+there+%F0%9F%91%8B;Welcome+to+my+Github+Profile;I'm+Yuran+-+a+Web+Developer)](https://git.io/typing-svg) -->
 
