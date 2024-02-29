@@ -1,4 +1,4 @@
-> _**The more you like yourself, the less you are like anyone else, which makes you unique.**_ - Walt Disney
+> _**Chance is always powerful. Let your hook be always cast; in the pool where you least expect it, there will be a fish.**_ - Ovid
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fira+code&color=%2300CCCC&center=true&vCenter=true&multiline=true&size=32&width=1200&height=130&lines=Hi+there+%F0%9F%91%8B;Welcome+to+my+Github+Profile;I'm+Yuran+-+a+Web+Developer)](https://git.io/typing-svg) -->
 
