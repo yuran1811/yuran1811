@@ -1,4 +1,4 @@
-> _**It is not only for what we do that we are held responsible, but also for what we do not do.**_ - Molière
+> _**A man must be big enough to admit his mistakes, smart enough to profit from them, and strong enough to correct them.**_ - John C. Maxwell
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fira+code&color=%2300CCCC&center=true&vCenter=true&multiline=true&size=32&width=1200&height=130&lines=Hi+there+%F0%9F%91%8B;Welcome+to+my+Github+Profile;I'm+Yuran+-+a+Web+Developer)](https://git.io/typing-svg) -->
 
