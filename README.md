@@ -1,4 +1,4 @@
-> _**Nothing is softer or more flexible than water, yet nothing can resist it.**_ - Laozi
+> _**Mediocrity knows nothing higher than itself, but talent instantly recognizes genius.**_ - Arthur Conan Doyle
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fira+code&color=%2300CCCC&center=true&vCenter=true&multiline=true&size=32&width=1200&height=130&lines=Hi+there+%F0%9F%91%8B;Welcome+to+my+Github+Profile;I'm+Yuran+-+a+Web+Developer)](https://git.io/typing-svg) -->
 
