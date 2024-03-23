@@ -1,4 +1,4 @@
-> _**The happiness of a man in this life does not consist in the absence but in the mastery of his passions.**_ - Alfred Tennyson
+> _**We must be as courteous to a man as we are to a picture, which we are willing to give the advantage of a good light.**_ - Ralph Waldo Emerson
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fira+code&color=%2300CCCC&center=true&vCenter=true&multiline=true&size=32&width=1200&height=130&lines=Hi+there+%F0%9F%91%8B;Welcome+to+my+Github+Profile;I'm+Yuran+-+a+Web+Developer)](https://git.io/typing-svg) -->
 
