@@ -1,4 +1,4 @@
-> _**If we did the things we are capable of, we would astound ourselves.**_ - Thomas Edison
+> _**We must never forget that it is through our actions, words, and thoughts that we have a choice.**_ - Sogyal Rinpoche
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fira+code&color=%2300CCCC&center=true&vCenter=true&multiline=true&size=32&width=1200&height=130&lines=Hi+there+%F0%9F%91%8B;Welcome+to+my+Github+Profile;I'm+Yuran+-+a+Web+Developer)](https://git.io/typing-svg) -->
 
