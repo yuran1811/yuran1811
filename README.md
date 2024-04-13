@@ -1,4 +1,4 @@
-> _**The road of excess leads to the palace of wisdom.**_ - William Blake
+> _**Trust only movement. Life happens at the level of events, not of words. Trust movement.**_ - Alfred Adler
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fira+code&color=%2300CCCC&center=true&vCenter=true&multiline=true&size=32&width=1200&height=130&lines=Hi+there+%F0%9F%91%8B;Welcome+to+my+Github+Profile;I'm+Yuran+-+a+Web+Developer)](https://git.io/typing-svg) -->
 
