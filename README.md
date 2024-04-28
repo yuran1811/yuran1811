@@ -1,4 +1,4 @@
-> _**If you correct your mind, the rest of your life will fall into place.**_ - Laozi
+> _**Treat people as if they were what they ought to be, and you help them to become what they are capable of being.**_ - Johann Wolfgang von Goethe
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fira+code&color=%2300CCCC&center=true&vCenter=true&multiline=true&size=32&width=1200&height=130&lines=Hi+there+%F0%9F%91%8B;Welcome+to+my+Github+Profile;I'm+Yuran+-+a+Web+Developer)](https://git.io/typing-svg) -->
 
