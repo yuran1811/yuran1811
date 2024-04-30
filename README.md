@@ -1,4 +1,4 @@
-> _**I can't change the direction of the wind, but I can adjust my sails to always reach my destination.**_ - Jimmy Dean
+> _**We must reach out our hand in friendship and dignity both to those who would befriend us and those who would be our enemy.**_ - Arthur Ashe
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fira+code&color=%2300CCCC&center=true&vCenter=true&multiline=true&size=32&width=1200&height=130&lines=Hi+there+%F0%9F%91%8B;Welcome+to+my+Github+Profile;I'm+Yuran+-+a+Web+Developer)](https://git.io/typing-svg) -->
 
