@@ -1,4 +1,4 @@
-> _**Minds, like bodies, will often fall into a pimpled, ill-conditioned state from mere excess of comfort.**_ - Charles Dickens
+> _**All human wisdom is summed up in two words; wait and hope.**_ - Alexandre Dumas
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fira+code&color=%2300CCCC&center=true&vCenter=true&multiline=true&size=32&width=1200&height=130&lines=Hi+there+%F0%9F%91%8B;Welcome+to+my+Github+Profile;I'm+Yuran+-+a+Web+Developer)](https://git.io/typing-svg) -->
 
