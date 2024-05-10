@@ -1,4 +1,4 @@
-> _**Each friend represents a world in us, a world not born until they arrive, and it is only by this meeting that a new world is born.**_ - Anaïs Nin
+> _**By going beyond your own problems and taking care of others, you gain inner strength, self-confidence, courage, and a greater sense of calm.**_ - Dalai Lama
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fira+code&color=%2300CCCC&center=true&vCenter=true&multiline=true&size=32&width=1200&height=130&lines=Hi+there+%F0%9F%91%8B;Welcome+to+my+Github+Profile;I'm+Yuran+-+a+Web+Developer)](https://git.io/typing-svg) -->
 
