@@ -1,4 +1,4 @@
-> _**Good actions give strength to ourselves and inspire good actions in others.**_ - Plato
+> _**Being in humaneness is good. If we select other goodness and thus are far apart from humaneness, how can we be the wise?**_ - Confucius
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fira+code&color=%2300CCCC&center=true&vCenter=true&multiline=true&size=32&width=1200&height=130&lines=Hi+there+%F0%9F%91%8B;Welcome+to+my+Github+Profile;I'm+Yuran+-+a+Web+Developer)](https://git.io/typing-svg) -->
 
