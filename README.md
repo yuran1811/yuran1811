@@ -1,4 +1,4 @@
-> _**We must embrace pain and burn it as fuel for our journey.**_ - Kenji Miyazawa
+> _**The conditions of conquest are always easy. We have but to toil awhile, endure awhile, believe always, and never turn back.**_ - Seneca the Younger
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fira+code&color=%2300CCCC&center=true&vCenter=true&multiline=true&size=32&width=1200&height=130&lines=Hi+there+%F0%9F%91%8B;Welcome+to+my+Github+Profile;I'm+Yuran+-+a+Web+Developer)](https://git.io/typing-svg) -->
 
