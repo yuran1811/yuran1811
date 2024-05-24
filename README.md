@@ -1,4 +1,4 @@
-> _**The conditions of conquest are always easy. We have but to toil awhile, endure awhile, believe always, and never turn back.**_ - Seneca the Younger
+> _**The right way is not always the popular and easy way. Standing for right when it is unpopular is a true test of moral character.**_ - Margaret Chase Smith
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fira+code&color=%2300CCCC&center=true&vCenter=true&multiline=true&size=32&width=1200&height=130&lines=Hi+there+%F0%9F%91%8B;Welcome+to+my+Github+Profile;I'm+Yuran+-+a+Web+Developer)](https://git.io/typing-svg) -->
 
