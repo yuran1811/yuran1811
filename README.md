@@ -1,4 +1,4 @@
-> _**Every gift from a friend is a wish for your happiness.**_ - Richard Bach
+> _**Courage is rightly esteemed the first of human qualities... because it is the quality which guarantees all others.**_ - Winston Churchill
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fira+code&color=%2300CCCC&center=true&vCenter=true&multiline=true&size=32&width=1200&height=130&lines=Hi+there+%F0%9F%91%8B;Welcome+to+my+Github+Profile;I'm+Yuran+-+a+Web+Developer)](https://git.io/typing-svg) -->
 
@@ -13,6 +13,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" height="30"> <img src="./src/_blank.png" width="15" height="30">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30" height="30"/> <img src="./src/_blank.png" width="15" height="30">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="30" height="30"> <img src="./src/_blank.png" width="15" height="30">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="30" height="30" /> <img src="./src/_blank.png" width="15" height="30">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" height="30"/> <img src="./src/_blank.png" width="15" height="30">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="30" height="30"/> <img src="./src/_blank.png" width="15" height="30">
@@ -58,6 +59,6 @@
 ## Stats
 
 <div align="center">
-	<img height="165" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuran1811&layout=compact&theme=noctis_minimus&langs_count=8">
-	<img height="165" align="center" src="https://github-readme-stats.vercel.app/api?username=yuran1811&show_icons=true&theme=noctis_minimus">
+	<img height="225" align="center" src="https://github-readme-stats-git-main-yurans-projects.vercel.app/api/top-langs/?username=yuran1811&layout=compact&theme=noctis_minimus&langs_count=12">
+	<img height="225" align="center" src="https://github-readme-stats-git-main-yurans-projects.vercel.app/api?username=yuran1811&show_icons=true&theme=noctis_minimus&show=reviews,prs_merged,prs_merged_percentage">
 </div>
