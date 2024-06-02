@@ -1,4 +1,4 @@
-> _**Take time to deliberate, but when the time for action has arrived, stop thinking and go in.**_ - Napoleon
+> _**To know oneself is to study oneself in action with another person.**_ - Bruce Lee
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fira+code&color=%2300CCCC&center=true&vCenter=true&multiline=true&size=32&width=1200&height=130&lines=Hi+there+%F0%9F%91%8B;Welcome+to+my+Github+Profile;I'm+Yuran+-+a+Web+Developer)](https://git.io/typing-svg) -->
 
@@ -30,11 +30,13 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" width="30" height="30" /> <img src="./src/_blank.png" width="15" height="30">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" width="30" height="30" /> <img src="./src/_blank.png" width="15" height="30">
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tex/tex-original.svg" width="30" height="30" /> <img src="./src/_blank.png" width="15" height="30">
+
 ## Tools
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="30" height="30" /> <img src="./src/_blank.png" width="15" height="30" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="30" height="30" /> <img src="./src/_blank.png" width="15" height="30" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="30" height="30" /> <img src="./src/_blank.png" width="15" height="30" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" width="30" height="30" /> <img src="./src/_blank.png" width="15" height="30" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" height="30" /> <img src="./src/_blank.png" width="15" height="30" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30" height="30" /> <img src="./src/_blank.png" width="15" height="30" />
 
@@ -42,9 +44,10 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" width="30" height="30" /> <img src="./src/_blank.png" width="15" height="30">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" width="30" height="30" /> <img src="./src/_blank.png" width="15" height="30">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" width="30" height="30" /> <img src="./src/_blank.png" width="15" height="30">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" width="30" height="30" /> <img src="./src/_blank.png" width="15" height="30">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" width="30" height="30" /> <img src="./src/_blank.png" width="15" height="30">
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" width="30" height="30" /> <img src="./src/_blank.png" width="15" height="30">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" width="30" height="30" /> <img src="./src/_blank.png" width="15" height="30">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="30" height="30" /> <img src="./src/_blank.png" width="15" height="30">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg" width="30" height="30" /> <img src="./src/_blank.png" width="15" height="30">
