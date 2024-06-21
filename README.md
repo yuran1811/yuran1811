@@ -1,4 +1,4 @@
-> _**We are not animals. We are not a product of what has happened to us in our past. We have the power of choice.**_ - Stephen Covey
+> _**When a thing is done, it's done. Don't look back. Look forward to your next objective.**_ - George Marshall
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fira+code&color=%2300CCCC&center=true&vCenter=true&multiline=true&size=32&width=1200&height=130&lines=Hi+there+%F0%9F%91%8B;Welcome+to+my+Github+Profile;I'm+Yuran+-+a+Web+Developer)](https://git.io/typing-svg) -->
 
