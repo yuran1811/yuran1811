@@ -1,4 +1,4 @@
-> _**A man may fulfil the object of his existence by asking a question he cannot answer and attempting a task he cannot achieve.**_ - Oliver Wendell Holmes Jr.
+> _**It's just a job. Grass grows, birds fly, waves pound the sand. I beat people up.**_ - Muhammad Ali
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fira+code&color=%2300CCCC&center=true&vCenter=true&multiline=true&size=32&width=1200&height=130&lines=Hi+there+%F0%9F%91%8B;Welcome+to+my+Github+Profile;I'm+Yuran+-+a+Web+Developer)](https://git.io/typing-svg) -->
 
