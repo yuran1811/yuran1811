@@ -8,56 +8,55 @@
 
 ## Skills
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" height="30"> <img src="./src/_blank.png" width="15" height="30">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" height="30"> <img src="./src/_blank.png" width="15" height="30">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" height="30"> <img src="./src/_blank.png" width="15" height="30">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30" height="30"/> <img src="./src/_blank.png" width="15" height="30">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="30" height="30"> <img src="./src/_blank.png" width="15" height="30">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="30" height="30"> <img src="./src/_blank.png" width="15" height="30">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="30" height="30"> <img src="./src/_blank.png" width="15" height="30">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="30" height="30"> <img src="./src/_blank.png" width="15" height="30">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="30" height="30"/> <img src="./src/_blank.png" width="15" height="30">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="30" height="30"> <img src="./src/_blank.png" width="15" height="30">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="30" height="30" /> <img src="./src/_blank.png" width="15" height="30">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" height="30"/> <img src="./src/_blank.png" width="15" height="30">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="30" height="30"/> <img src="./src/_blank.png" width="15" height="30">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="30" height="30" /> <img src="./src/_blank.png" width="15" height="30">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="30" height="30"> <img src="./src/_blank.png" width="15" height="30">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="30" height="30"> <img src="./src/_blank.png" width="15" height="30">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="30" height="30"/> <img src="./src/_blank.png" width="15" height="30">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" width="30" height="30"/> <img src="./src/_blank.png" width="15" height="30">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="30" height="30" /> <img src="./src/_blank.png" width="15" height="30">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" width="30" height="30"> <img src="./src/_blank.png" width="15" height="30">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="30" height="30"> <img src="./src/_blank.png" width="15" height="30">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="30" height="30"/> <img src="./src/_blank.png" width="15" height="30" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="30" height="30"/> <img src="./src/_blank.png" width="15" height="30">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30" height="30"> <img src="./src/_blank.png" width="15" height="30">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tauri/tauri-original.svg" width="30" height="30"> <img src="./src/_blank.png" width="15" height="30">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="30" height="30"/> <img src="./src/_blank.png" width="15" height="30" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/qwik/qwik-original.svg" width="30" height="30"/> <img src="./src/_blank.png" width="15" height="30">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="30" height="30"/> <img src="./src/_blank.png" width="15" height="30">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="30" height="30"> <img src="./src/_blank.png" width="15" height="30">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tauri/tauri-original.svg" width="30" height="30"> <img src="./src/_blank.png" width="15" height="30">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="30" height="30" /> <img src="./src/_blank.png" width="15" height="30">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" width="30" height="30" /> <img src="./src/_blank.png" width="15" height="30">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" width="30" height="30" /> <img src="./src/_blank.png" width="15" height="30">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-plain.svg" width="30" height="30" /> <img src="./src/_blank.png" width="15" height="30">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" width="30" height="30" /> <img src="./src/_blank.png" width="15" height="30">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain.svg" width="30" height="30" /> <img src="./src/_blank.png" width="15" height="30">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="30" height="30" /> <img src="./src/_blank.png" width="15" height="30">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" width="30" height="30" /> <img src="./src/_blank.png" width="15" height="30">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tex/tex-original.svg" width="30" height="30" /> <img src="./src/_blank.png" width="15" height="30">
 
 ## Tools
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="30" height="30" /> <img src="./src/_blank.png" width="15" height="30" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="30" height="30" /> <img src="./src/_blank.png" width="15" height="30" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" width="30" height="30" /> <img src="./src/_blank.png" width="15" height="30" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" height="30" /> <img src="./src/_blank.png" width="15" height="30" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30" height="30" /> <img src="./src/_blank.png" width="15" height="30" />
+<img src="https://skillicons.dev/icons?i=figma,ai,ps,obsidian,notion,git,vscode" height="30" />
 
 ## Plan
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" width="30" height="30" /> <img src="./src/_blank.png" width="15" height="30">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" width="30" height="30" /> <img src="./src/_blank.png" width="15" height="30">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" width="30" height="30" /> <img src="./src/_blank.png" width="15" height="30">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" width="30" height="30" /> <img src="./src/_blank.png" width="15" height="30">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" width="30" height="30" /> <img src="./src/_blank.png" width="15" height="30">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" width="30" height="30" /> <img src="./src/_blank.png" width="15" height="30">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" width="30" height="30" /> <img src="./src/_blank.png" width="15" height="30">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="30" height="30" /> <img src="./src/_blank.png" width="15" height="30">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg" width="30" height="30" /> <img src="./src/_blank.png" width="15" height="30">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/socketio/socketio-original.svg" width="30" height="30" /> <img src="./src/_blank.png" width="15" height="30">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threejs/threejs-original.svg" width="30" height="30" /> <img src="./src/_blank.png" width="15" height="30">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" width="30" height="30" /> <img src="./src/_blank.png" width="15" height="30">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opengl/opengl-original.svg" width="30" height="30" /> <img src="./src/_blank.png" width="15" height="30">
 
 ## Contact
 
-<a href="https://www.linkedin.com/in/yuran-legends-6252b6222/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" height="30"/> </a> <img src="./src/_blank.png" width="15" height="30">
-<a href="https://www.facebook.com/YuranLegends/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="30" height="30"/> </a> <img src="./src/_blank.png" width="15" height="30">
-<a href="https://www.instagram.com/_yuranlegends_"> <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width="30" height="30"/> </a> <img src="./src/_blank.png" width="15" height="30">
-<a href="https://www.youtube.com/channel/UCLXNBb-jZRS_3o_itGGrGRA?view_as=subscriber"> <img src="https://cdn-icons-png.flaticon.com/512/174/174883.png" width="30" height="30"/> </a> <img src="./src/_blank.png" width="15" height="30">
+<a href="https://www.linkedin.com/in/yuran-legends-6252b6222/"><img src="https://api.iconify.design/skill-icons:linkedin.svg" width="30" height="30"/></a> <img src="./src/_blank.png" width="15" height="30">
+<a href="https://www.facebook.com/YuranLegends/"><img src="https://api.iconify.design/logos:facebook.svg" width="30" height="30"/></a> <img src="./src/_blank.png" width="15" height="30">
+<a href="https://www.instagram.com/_yuranlegends_"><img src="https://api.iconify.design/skill-icons:instagram.svg" width="30" height="30"/></a> <img src="./src/_blank.png" width="15" height="30">
+<a href="https://www.youtube.com/channel/UCLXNBb-jZRS_3o_itGGrGRA?view_as=subscriber"><img src="https://api.iconify.design/logos:youtube-icon.svg" width="30" height="30"/></a> <img src="./src/_blank.png" width="15" height="30">
 
 ## Stats
 
