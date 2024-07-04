@@ -1,4 +1,4 @@
-> _**I never considered a difference of opinion in politics, in religion, in philosophy, as cause for withdrawing from a friend.**_ - Thomas Jefferson
+> _**Friendship with oneself is all important because without it one cannot be friends with anybody else in the world.**_ - Eleanor Roosevelt
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fira+code&color=%2300CCCC&center=true&vCenter=true&multiline=true&size=32&width=1200&height=130&lines=Hi+there+%F0%9F%91%8B;Welcome+to+my+Github+Profile;I'm+Yuran+-+a+Web+Developer)](https://git.io/typing-svg) -->
 
@@ -8,27 +8,27 @@
 
 ## Skills
 
-<img src="https://skill-icons-livid.vercel.app/icons?i=html,css,js,ts,cpp,python&gap=100" height="48" />
+<img src="https://skill-icons-livid.vercel.app/icons?i=html,css,js,ts,cpp,python&gap=60" height="36" />
 
-<img src="https://skill-icons-livid.vercel.app/icons?i=react,redux,tailwind,sass,bootstrap&gap=100" height="48" />
+<img src="https://skill-icons-livid.vercel.app/icons?i=react,redux,tailwind,sass,bootstrap&gap=60" height="36" />
 
-<img src="https://skill-icons-livid.vercel.app/icons?i=nextjs,qwik,express,nodejs,tauri&gap=100" height="48" />
+<img src="https://skill-icons-livid.vercel.app/icons?i=nextjs,qwik,express,nodejs,tauri&gap=60" height="36" />
 
-<img src="https://skill-icons-livid.vercel.app/icons?i=firebase,supabase,mongo,sqlite,prisma&gap=100" height="48" />
+<img src="https://skill-icons-livid.vercel.app/icons?i=firebase,supabase,mongo,sqlite,prisma&gap=60" height="36" />
 
-<img src="https://skill-icons-livid.vercel.app/icons?i=latex,md&gap=100" height="48" />
+<img src="https://skill-icons-livid.vercel.app/icons?i=latex,md&gap=60" height="36" />
 
 ## Tools
 
-<img src="https://skill-icons-livid.vercel.app/icons?i=figma,ai,ps&gap=100" height="48" />
+<img src="https://skill-icons-livid.vercel.app/icons?i=figma,ai,ps&gap=60" height="36" />
 
-<img src="https://skill-icons-livid.vercel.app/icons?i=obsidian,notion,git,vscode&gap=100" height="48" />
+<img src="https://skill-icons-livid.vercel.app/icons?i=obsidian,notion,git,vscode&gap=60" height="36" />
 
 ## Plan
 
-<img src="https://skill-icons-livid.vercel.app/icons?i=nest,graphql,docker,redis&gap=100" height="48" />
+<img src="https://skill-icons-livid.vercel.app/icons?i=nest,graphql,docker,redis&gap=60" height="36" />
 
-<img src="https://skill-icons-livid.vercel.app/icons?i=socketio,threejs,blender,opengl&gap=100" height="48" />
+<img src="https://skill-icons-livid.vercel.app/icons?i=socketio,threejs,blender,opengl&gap=60" height="36" />
 
 ## Contact
 
@@ -40,6 +40,6 @@
 ## Stats
 
 <div align="center">
-	<img height="225" align="center" src="https://github-readme-stats-git-main-yurans-projects.vercel.app/api/top-langs/?username=yuran1811&layout=compact&theme=noctis_minimus&langs_count=12">
+	<img height="225" align="center" src="https://github-readme-stats-git-main-yurans-projects.vercel.app/api/top-langs/?username=yuran1811&layout=compact&theme=noctis_minimus&langs_count=10&hide=svg,shell,nwscript,cmake,pawn,makefile,procfile,batchfile,dockerfile,sdl,pascal,ejs,pov-ray%20sdl">
 	<img height="225" align="center" src="https://github-readme-stats-git-main-yurans-projects.vercel.app/api?username=yuran1811&show_icons=true&theme=noctis_minimus&show=reviews,prs_merged,prs_merged_percentage">
 </div>
