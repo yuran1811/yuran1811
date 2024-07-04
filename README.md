@@ -8,48 +8,27 @@
 
 ## Skills
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="30" height="30"> <img src="./src/_blank.png" width="15" height="30">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="30" height="30"> <img src="./src/_blank.png" width="15" height="30">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="30" height="30"> <img src="./src/_blank.png" width="15" height="30">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="30" height="30"/> <img src="./src/_blank.png" width="15" height="30">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="30" height="30"> <img src="./src/_blank.png" width="15" height="30">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="30" height="30" /> <img src="./src/_blank.png" width="15" height="30">
+<img src="https://skill-icons-livid.vercel.app/icons?i=html,css,js,ts,cpp,python&gap=100" height="48" />
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="30" height="30"/> <img src="./src/_blank.png" width="15" height="30">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" width="30" height="30"/> <img src="./src/_blank.png" width="15" height="30">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="30" height="30" /> <img src="./src/_blank.png" width="15" height="30">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" width="30" height="30"> <img src="./src/_blank.png" width="15" height="30">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="30" height="30"> <img src="./src/_blank.png" width="15" height="30">
+<img src="https://skill-icons-livid.vercel.app/icons?i=react,redux,tailwind,sass,bootstrap&gap=100" height="48" />
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="30" height="30"/> <img src="./src/_blank.png" width="15" height="30" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/qwik/qwik-original.svg" width="30" height="30"/> <img src="./src/_blank.png" width="15" height="30">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="30" height="30"/> <img src="./src/_blank.png" width="15" height="30">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="30" height="30"> <img src="./src/_blank.png" width="15" height="30">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tauri/tauri-original.svg" width="30" height="30"> <img src="./src/_blank.png" width="15" height="30">
+<img src="https://skill-icons-livid.vercel.app/icons?i=nextjs,qwik,express,nodejs,tauri&gap=100" height="48" />
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-plain.svg" width="30" height="30" /> <img src="./src/_blank.png" width="15" height="30">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" width="30" height="30" /> <img src="./src/_blank.png" width="15" height="30">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain.svg" width="30" height="30" /> <img src="./src/_blank.png" width="15" height="30">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="30" height="30" /> <img src="./src/_blank.png" width="15" height="30">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" width="30" height="30" /> <img src="./src/_blank.png" width="15" height="30">
+<img src="https://skill-icons-livid.vercel.app/icons?i=firebase,supabase,mongo,sqlite,prisma&gap=100" height="48" />
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tex/tex-original.svg" width="30" height="30" /> <img src="./src/_blank.png" width="15" height="30">
+<img src="https://skill-icons-livid.vercel.app/icons?i=latex,md&gap=100" height="48" />
 
 ## Tools
 
-<img src="https://skillicons.dev/icons?i=figma,ai,ps,obsidian,notion,git,vscode" height="30" />
+<img src="https://skill-icons-livid.vercel.app/icons?i=figma,ai,ps&gap=100" height="48" />
+
+<img src="https://skill-icons-livid.vercel.app/icons?i=obsidian,notion,git,vscode&gap=100" height="48" />
 
 ## Plan
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" width="30" height="30" /> <img src="./src/_blank.png" width="15" height="30">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" width="30" height="30" /> <img src="./src/_blank.png" width="15" height="30">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" width="30" height="30" /> <img src="./src/_blank.png" width="15" height="30">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" width="30" height="30" /> <img src="./src/_blank.png" width="15" height="30">
+<img src="https://skill-icons-livid.vercel.app/icons?i=nest,graphql,docker,redis&gap=100" height="48" />
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/socketio/socketio-original.svg" width="30" height="30" /> <img src="./src/_blank.png" width="15" height="30">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threejs/threejs-original.svg" width="30" height="30" /> <img src="./src/_blank.png" width="15" height="30">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" width="30" height="30" /> <img src="./src/_blank.png" width="15" height="30">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opengl/opengl-original.svg" width="30" height="30" /> <img src="./src/_blank.png" width="15" height="30">
+<img src="https://skill-icons-livid.vercel.app/icons?i=socketio,threejs,blender,opengl&gap=100" height="48" />
 
 ## Contact
 
