@@ -1,4 +1,4 @@
-> _**Once a new technology rolls over you, if you're not part of the steamroller, you're part of the road.**_ - Stewart Brand
+> _**It is not so much our friends' help that helps us, as the confidence of their help.**_ - Epicurus
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fira+code&color=%2300CCCC&center=true&vCenter=true&multiline=true&size=32&width=1200&height=130&lines=Hi+there+%F0%9F%91%8B;Welcome+to+my+Github+Profile;I'm+Yuran+-+a+Web+Developer)](https://git.io/typing-svg) -->
 
