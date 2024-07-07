@@ -1,4 +1,4 @@
-> _**Every man is a damn fool for at least five minutes every day; wisdom consists in not exceeding the limit.**_ - Elbert Hubbard
+> _**Remember that the most valuable antiques are dear old friends.**_ - H. Jackson Brown Jr.
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fira+code&color=%2300CCCC&center=true&vCenter=true&multiline=true&size=32&width=1200&height=130&lines=Hi+there+%F0%9F%91%8B;Welcome+to+my+Github+Profile;I'm+Yuran+-+a+Web+Developer)](https://git.io/typing-svg) -->
 
