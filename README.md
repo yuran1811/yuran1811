@@ -1,4 +1,4 @@
-> _**He can who thinks he can, and he can't who thinks he can't. This is an inexorable, indisputable law.**_ - Pablo Picasso
+> _**Music is a higher revelation than all wisdom and philosophy.**_ - Ludwig van Beethoven
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fira+code&color=%2300CCCC&center=true&vCenter=true&multiline=true&size=32&width=1200&height=130&lines=Hi+there+%F0%9F%91%8B;Welcome+to+my+Github+Profile;I'm+Yuran+-+a+Web+Developer)](https://git.io/typing-svg) -->
 
