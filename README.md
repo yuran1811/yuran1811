@@ -1,4 +1,4 @@
-> _**A noble one produces an abundance of merit by having a compassionate mind towards all living beings.**_ - The Buddha
+> _**We don't stop playing because we grow old; we grow old because we stop playing.**_ - Bernard Shaw
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fira+code&color=%2300CCCC&center=true&vCenter=true&multiline=true&size=32&width=1200&height=130&lines=Hi+there+%F0%9F%91%8B;Welcome+to+my+Github+Profile;I'm+Yuran+-+a+Web+Developer)](https://git.io/typing-svg) -->
 
