@@ -1,4 +1,4 @@
-> _**I cannot make my days longer, so I strive to make them better.**_ - Henry David Thoreau
+> _**If the single man plant himself indomitably on his instincts, and there abide, the huge world will come round to him.**_ - Ralph Waldo Emerson
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fira+code&color=%2300CCCC&center=true&vCenter=true&multiline=true&size=32&width=1200&height=130&lines=Hi+there+%F0%9F%91%8B;Welcome+to+my+Github+Profile;I'm+Yuran+-+a+Web+Developer)](https://git.io/typing-svg) -->
 
