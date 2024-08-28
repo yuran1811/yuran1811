@@ -1,4 +1,4 @@
-> _**Those who cannot learn from history are doomed to repeat it.**_ - George Santayana
+> _**We cannot solve our problems with the same thinking we used when we created them.**_ - Albert Einstein
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fira+code&color=%2300CCCC&center=true&vCenter=true&multiline=true&size=32&width=1200&height=130&lines=Hi+there+%F0%9F%91%8B;Welcome+to+my+Github+Profile;I'm+Yuran+-+a+Web+Developer)](https://git.io/typing-svg) -->
 
