@@ -1,4 +1,4 @@
-> _**What the caterpillar calls the end of the world, the master calls a butterfly.**_ - Richard Bach
+> _**We are all inclined to judge ourselves by our ideals; others, by their acts.**_ - Harold Nicolson
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fira+code&color=%2300CCCC&center=true&vCenter=true&multiline=true&size=32&width=1200&height=130&lines=Hi+there+%F0%9F%91%8B;Welcome+to+my+Github+Profile;I'm+Yuran+-+a+Web+Developer)](https://git.io/typing-svg) -->
 
