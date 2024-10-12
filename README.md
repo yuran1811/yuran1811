@@ -1,4 +1,4 @@
-> _**Whatever you can do, or dream you can, begin it.  Boldness has genius, power and magic in it.**_ - Johann Wolfgang von Goethe
+> _**Protecting someone means giving them a place to belong. Giving them a place where they can be happy.**_ - Princess Lenessia
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fira+code&color=%2300CCCC&center=true&vCenter=true&multiline=true&size=32&width=1200&height=130&lines=Hi+there+%F0%9F%91%8B;Welcome+to+my+Github+Profile;I'm+Yuran+-+a+Web+Developer)](https://git.io/typing-svg) -->
 
