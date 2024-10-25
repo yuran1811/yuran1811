@@ -1,4 +1,4 @@
-> _**You need to accept the fact that you’re not the best and have all the will to strive to be better than anyone you face.**_ - Roronoa Zoro
+> _**It’s just pathetic to give up on something before you even give it a shot.”**_ - Reiko Mikami
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fira+code&color=%2300CCCC&center=true&vCenter=true&multiline=true&size=32&width=1200&height=130&lines=Hi+there+%F0%9F%91%8B;Welcome+to+my+Github+Profile;I'm+Yuran+-+a+Web+Developer)](https://git.io/typing-svg) -->
 
