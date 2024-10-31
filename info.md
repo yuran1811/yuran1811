@@ -6,7 +6,7 @@
 
 ## Skills
 
-<img src="https://skill-icons-livid.vercel.app/icons?i=html,css,js,ts,cpp,python&gap=60" height="36" />
+<img src="https://skill-icons-livid.vercel.app/icons?i=html,css,js,ts,cpp,python,aarch64&gap=60" height="36" />
 
 <img src="https://skill-icons-livid.vercel.app/icons?i=react,redux,tailwind,sass,bootstrap&gap=60" height="36" />
 
