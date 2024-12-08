@@ -1,4 +1,4 @@
-> _**Just like games, no matter how well you have things lined up in your life, there’s always something to keep you on your toes.**_ - Junichirou Kagami
+> _**In order to succeed, your desire for success should be greater than your fear of failure.**_ - Bill Cosby
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fira+code&color=%2300CCCC&center=true&vCenter=true&multiline=true&size=32&width=1200&height=130&lines=Hi+there+%F0%9F%91%8B;Welcome+to+my+Github+Profile;I'm+Yuran+-+a+Web+Developer)](https://git.io/typing-svg) -->
 
