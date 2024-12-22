@@ -1,4 +1,4 @@
-> _**Religion, ideology, resources, land, spite, love or just because… No matter how pathetic the reason, it’s enough to start a war. War will never cease to exist… reasons can be thought up after the fact… Human nature pursues strife.**_ - Paine
+> _**Teach thy tongue to say, “I do not know,” and thous shalt progress.**_ - Maimonides
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fira+code&color=%2300CCCC&center=true&vCenter=true&multiline=true&size=32&width=1200&height=130&lines=Hi+there+%F0%9F%91%8B;Welcome+to+my+Github+Profile;I'm+Yuran+-+a+Web+Developer)](https://git.io/typing-svg) -->
 
@@ -10,7 +10,7 @@
 
 <img src="https://skill-icons-livid.vercel.app/icons?i=html,css,js,ts,cpp,python,aarch64&gap=60" height="36" />
 
-<img src="https://skill-icons-livid.vercel.app/icons?i=react,redux,tailwind,sass,bootstrap&gap=60" height="36" />
+<img src="https://skill-icons-livid.vercel.app/icons?i=react,redux,tailwind,sass,bootstrap,raylib&gap=60" height="36" />
 
 <img src="https://skill-icons-livid.vercel.app/icons?i=nextjs,qwik,express,nodejs,tauri&gap=60" height="36" />
 
