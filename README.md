@@ -1,4 +1,4 @@
-> _**Teach thy tongue to say, “I do not know,” and thous shalt progress.**_ - Maimonides
+> _**Remember that not getting what you want is sometimes a wonderful stroke of luck.**_ - Dalai Lama
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fira+code&color=%2300CCCC&center=true&vCenter=true&multiline=true&size=32&width=1200&height=130&lines=Hi+there+%F0%9F%91%8B;Welcome+to+my+Github+Profile;I'm+Yuran+-+a+Web+Developer)](https://git.io/typing-svg) -->
 
