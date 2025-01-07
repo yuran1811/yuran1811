@@ -1,4 +1,4 @@
-> _**A truly rich man is one whose children run into his arms when his hands are empty.**_ - Unknown
+> _**If they adjust to me I have to adjust in turn Whoever stops adjusting won t be able to continue forward**_ - Tobio Kageyama
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fira+code&color=%2300CCCC&center=true&vCenter=true&multiline=true&size=32&width=1200&height=130&lines=Hi+there+%F0%9F%91%8B;Welcome+to+my+Github+Profile;I'm+Yuran+-+a+Web+Developer)](https://git.io/typing-svg) -->
 
