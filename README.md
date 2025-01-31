@@ -1,4 +1,4 @@
-> _**When you hit the point of no return, that’s the moment it truly becomes a journey. If you can still turn back, it’s not really a journey.**_ - Hinata Miyake
+> _**I am not a product of my circumstances. I am a product of my decisions.**_ - Stephen Covey
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fira+code&color=%2300CCCC&center=true&vCenter=true&multiline=true&size=32&width=1200&height=130&lines=Hi+there+%F0%9F%91%8B;Welcome+to+my+Github+Profile;I'm+Yuran+-+a+Web+Developer)](https://git.io/typing-svg) -->
 
