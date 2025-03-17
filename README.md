@@ -1,4 +1,4 @@
-> _**If you look at what you have in life, you’ll always have more. If you look at what you don’t have in life, you’ll never have enough.**_ - Oprah Winfrey
+> _**A dropout will beat a genius through hard work.**_ - Rock Lee
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fira+code&color=%2300CCCC&center=true&vCenter=true&multiline=true&size=32&width=1200&height=130&lines=Hi+there+%F0%9F%91%8B;Welcome+to+my+Github+Profile;I'm+Yuran+-+a+Web+Developer)](https://git.io/typing-svg) -->
 
