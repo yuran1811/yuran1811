@@ -1,4 +1,4 @@
-> _**Every journey begins with a single step. We just have to have patience.**_ - Milly Thompson
+> _**When I stand before God at the end of my life, I would hope that I would not have a single bit of talent left and could say, I used everything you gave me.**_ - Erma Bombeck
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fira+code&color=%2300CCCC&center=true&vCenter=true&multiline=true&size=32&width=1200&height=130&lines=Hi+there+%F0%9F%91%8B;Welcome+to+my+Github+Profile;I'm+Yuran+-+a+Web+Developer)](https://git.io/typing-svg) -->
 
