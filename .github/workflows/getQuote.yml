@@ -19,7 +19,6 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: node
-          cache: 'npm'
       - run: npm ci
       - name: Get new quote
         run: npm start
