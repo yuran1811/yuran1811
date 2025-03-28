@@ -1,13 +1,16 @@
-import axios from 'axios';
-import { createReadStream, createWriteStream, writeFileSync } from 'fs';
+import { createReadStream, createWriteStream, writeFileSync } from 'node:fs';
+
+const DefaultQuote = {
+  quote: "Don't try to please everyone, just try to please yourself.",
+  author: 'yuran1811',
+};
 
 const getQuote = async () => {
   try {
-    const { data } = await axios.get('https://quotes-api-self.vercel.app/quote');
-    return data;
+    const res = await fetch('https://quotes-api-self.vercel.app/quote');
+    return res.ok ? await res.json() : DefaultQuote;
   } catch (err) {
-    console.error(err.message);
-    return {};
+    return DefaultQuote;
   }
 };
 

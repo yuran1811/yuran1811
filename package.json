@@ -4,8 +4,5 @@
   "type": "module",
   "scripts": {
     "start": "node index.js"
-  },
-  "dependencies": {
-    "axios": "^0.26.1"
   }
 }
