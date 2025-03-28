@@ -1,4 +1,4 @@
-> _**If the wind will not serve, take to the oars.**_ - Latin Proverb
+> _**The question isn’t who is going to let me; it’s who is going to stop me.**_ - Ayn Rand
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fira+code&color=%2300CCCC&center=true&vCenter=true&multiline=true&size=32&width=1200&height=130&lines=Hi+there+%F0%9F%91%8B;Welcome+to+my+Github+Profile;I'm+Yuran+-+a+Web+Developer)](https://git.io/typing-svg) -->
 
@@ -10,9 +10,9 @@
 
 <img src="https://skill-icons-livid.vercel.app/icons?i=html,css,js,ts,cpp,python,aarch64&gap=60" height="36" />
 
-<img src="https://skill-icons-livid.vercel.app/icons?i=react,redux,tailwind,sass,bootstrap,raylib&gap=60" height="36" />
+<img src="https://skill-icons-livid.vercel.app/icons?i=vue,react,redux,tailwind,sass,bootstrap,raylib&gap=60" height="36" />
 
-<img src="https://skill-icons-livid.vercel.app/icons?i=nextjs,qwik,express,nodejs,tauri&gap=60" height="36" />
+<img src="https://skill-icons-livid.vercel.app/icons?i=nuxt,nextjs,qwik,express,nodejs,tauri&gap=60" height="36" />
 
 <img src="https://skill-icons-livid.vercel.app/icons?i=firebase,supabase,mongo,sqlite,prisma&gap=60" height="36" />
 
