@@ -1,4 +1,4 @@
-> _**I’ve learned that people will forget what you said, people will forget what you did, but people will never forget how you made them feel.**_ - Maya Angelou
+> _**Whatever the mind of man can conceive and believe, it can achieve.**_ - Napoleon Hill
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fira+code&color=%2300CCCC&center=true&vCenter=true&multiline=true&size=32&width=1200&height=130&lines=Hi+there+%F0%9F%91%8B;Welcome+to+my+Github+Profile;I'm+Yuran+-+a+Web+Developer)](https://git.io/typing-svg) -->
 
