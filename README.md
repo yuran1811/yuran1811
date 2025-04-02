@@ -1,4 +1,4 @@
-> _**Whatever the mind of man can conceive and believe, it can achieve.**_ - Napoleon Hill
+> _**If you’re gonna insist on gambling and then complain when you lose, you had better work on your game.**_ - Hatsu Kominato
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fira+code&color=%2300CCCC&center=true&vCenter=true&multiline=true&size=32&width=1200&height=130&lines=Hi+there+%F0%9F%91%8B;Welcome+to+my+Github+Profile;I'm+Yuran+-+a+Web+Developer)](https://git.io/typing-svg) -->
 
