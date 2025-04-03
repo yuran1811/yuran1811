@@ -1,4 +1,4 @@
-> _**Our lives begin to end the day we become silent about things that matter.**_ - Martin Luther King Jr.
+> _**This World Is Cruel And It s Also Very Beautiful**_ - Mikasa
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fira+code&color=%2300CCCC&center=true&vCenter=true&multiline=true&size=32&width=1200&height=130&lines=Hi+there+%F0%9F%91%8B;Welcome+to+my+Github+Profile;I'm+Yuran+-+a+Web+Developer)](https://git.io/typing-svg) -->
 
