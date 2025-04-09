@@ -1,4 +1,4 @@
-> _**Everything has a beginning and an end. Life is just a cycle of starts and stops. There are ends we don’t desire, but they’re inevitable, we have to face them. It’s what being human is all about.**_ - Jet Black
+> _**If you can’t do something, then don’t. Focus on what you can do.**_ - Shiroe
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fira+code&color=%2300CCCC&center=true&vCenter=true&multiline=true&size=32&width=1200&height=130&lines=Hi+there+%F0%9F%91%8B;Welcome+to+my+Github+Profile;I'm+Yuran+-+a+Web+Developer)](https://git.io/typing-svg) -->
 
