@@ -1,4 +1,4 @@
-> _**Fools who don’t respect the past are likely to repeat it.**_ - Nico Robin
+> _**I refuse to let my fear control me anymore.**_ - Maka Albarn
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fira+code&color=%2300CCCC&center=true&vCenter=true&multiline=true&size=32&width=1200&height=130&lines=Hi+there+%F0%9F%91%8B;Welcome+to+my+Github+Profile;I'm+Yuran+-+a+Web+Developer)](https://git.io/typing-svg) -->
 
@@ -8,15 +8,15 @@
 
 ## Skills
 
-<img src="https://skill-icons-livid.vercel.app/icons?i=html,css,js,ts,cpp,python,aarch64&gap=60" height="36" />
+<img src="https://skill-icons-livid.vercel.app/icons?i=html,css,js,ts,cpp,python,rust,aarch64&gap=60" height="36" />
 
-<img src="https://skill-icons-livid.vercel.app/icons?i=vue,react,redux,tailwind,sass,bootstrap,raylib&gap=60" height="36" />
+<img src="https://skill-icons-livid.vercel.app/icons?i=vue,react,tailwind,sass,bootstrap,raylib,pygame&gap=60" height="36" />
 
 <img src="https://skill-icons-livid.vercel.app/icons?i=nuxt,nextjs,qwik,express,nodejs,tauri&gap=60" height="36" />
 
 <img src="https://skill-icons-livid.vercel.app/icons?i=firebase,supabase,mongo,sqlite,prisma&gap=60" height="36" />
 
-<img src="https://skill-icons-livid.vercel.app/icons?i=latex,md&gap=60" height="36" />
+<img src="https://skill-icons-livid.vercel.app/icons?i=latex,md,jupyter&gap=60" height="36" />
 
 ## Tools
 
