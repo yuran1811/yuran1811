@@ -6,15 +6,15 @@
 
 ## Skills
 
-<img src="https://skill-icons-livid.vercel.app/icons?i=html,css,js,ts,cpp,python,aarch64&gap=60" height="36" />
+<img src="https://skill-icons-livid.vercel.app/icons?i=html,css,js,ts,cpp,python,rust,aarch64&gap=60" height="36" />
 
-<img src="https://skill-icons-livid.vercel.app/icons?i=vue,react,redux,tailwind,sass,bootstrap,raylib&gap=60" height="36" />
+<img src="https://skill-icons-livid.vercel.app/icons?i=vue,react,tailwind,sass,bootstrap,raylib,pygame&gap=60" height="36" />
 
 <img src="https://skill-icons-livid.vercel.app/icons?i=nuxt,nextjs,qwik,express,nodejs,tauri&gap=60" height="36" />
 
 <img src="https://skill-icons-livid.vercel.app/icons?i=firebase,supabase,mongo,sqlite,prisma&gap=60" height="36" />
 
-<img src="https://skill-icons-livid.vercel.app/icons?i=latex,md&gap=60" height="36" />
+<img src="https://skill-icons-livid.vercel.app/icons?i=latex,md,jupyter&gap=60" height="36" />
 
 ## Tools
 
