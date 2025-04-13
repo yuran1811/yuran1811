@@ -1,4 +1,4 @@
-> _**Fear is not evil. It tells you what your weakness is. And once you know your weakness, you can become stronger as well as kinder.**_ - Gildarts Clive
+> _**Life isn’t about getting and having, it’s about giving and being.**_ - Kevin Kruse
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fira+code&color=%2300CCCC&center=true&vCenter=true&multiline=true&size=32&width=1200&height=130&lines=Hi+there+%F0%9F%91%8B;Welcome+to+my+Github+Profile;I'm+Yuran+-+a+Web+Developer)](https://git.io/typing-svg) -->
 
