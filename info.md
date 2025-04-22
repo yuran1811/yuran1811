@@ -38,6 +38,6 @@
 ## Stats
 
 <div align="center">
-	<img height="225" align="center" src="https://github-readme-stats-omega-one-73.vercel.app/api/top-langs/?username=yuran1811&layout=compact&theme=noctis_minimus&langs_count=10&hide=svg,shell,nwscript,cmake,pawn,makefile,procfile,batchfile,dockerfile,sdl,pascal,ejs,pov-ray%20sdl">
+	<img height="225" align="center" src="https://github-readme-stats-omega-one-73.vercel.app/api/top-langs/?username=yuran1811&layout=compact&theme=noctis_minimus&langs_count=10&hide=svg,shell,nwscript,cmake,pawn,makefile,procfile,batchfile,dockerfile,sdl,pascal,ejs,pov-ray%20sdl,jupyter%20notebook">
 	<img height="225" align="center" src="https://github-readme-stats-omega-one-73.vercel.app/api?username=yuran1811&show_icons=true&theme=noctis_minimus&show=reviews,prs_merged,prs_merged_percentage">
 </div>
