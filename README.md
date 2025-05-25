@@ -1,4 +1,4 @@
-> _**A person grows up when he’s able to overcome hardships. Protection is important, but there are some things that a person must learn on his own.**_ - Jiraiya
+> _**You can’t always hold on to the things that are important. By letting them go we gain something else.**_ - Kunio Yaobi
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fira+code&color=%2300CCCC&center=true&vCenter=true&multiline=true&size=32&width=1200&height=130&lines=Hi+there+%F0%9F%91%8B;Welcome+to+my+Github+Profile;I'm+Yuran+-+a+Web+Developer)](https://git.io/typing-svg) -->
 
