@@ -1,4 +1,4 @@
-> _**Remember no one can make you feel inferior without your consent.**_ - Eleanor Roosevelt
+> _**Remember that not getting what you want is sometimes a wonderful stroke of luck.**_ - Dalai Lama
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fira+code&color=%2300CCCC&center=true&vCenter=true&multiline=true&size=32&width=1200&height=130&lines=Hi+there+%F0%9F%91%8B;Welcome+to+my+Github+Profile;I'm+Yuran+-+a+Web+Developer)](https://git.io/typing-svg) -->
 
