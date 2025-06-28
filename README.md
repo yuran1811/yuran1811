@@ -1,4 +1,4 @@
-> _**The only person you are destined to become is the person you decide to be.**_ - Ralph Waldo Emerson
+> _**Certain things catch your eye, but pursue only those that capture the heart.**_ -  Ancient Indian Proverb
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fira+code&color=%2300CCCC&center=true&vCenter=true&multiline=true&size=32&width=1200&height=130&lines=Hi+there+%F0%9F%91%8B;Welcome+to+my+Github+Profile;I'm+Yuran+-+a+Web+Developer)](https://git.io/typing-svg) -->
 
