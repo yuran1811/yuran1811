@@ -1,4 +1,4 @@
-> _**Happiness is not something readymade.  It comes from your own actions.**_ - Dalai Lama
+> _**Build your own dreams, or someone else will hire you to build theirs.**_ - Farrah Gray
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fira+code&color=%2300CCCC&center=true&vCenter=true&multiline=true&size=32&width=1200&height=130&lines=Hi+there+%F0%9F%91%8B;Welcome+to+my+Github+Profile;I'm+Yuran+-+a+Web+Developer)](https://git.io/typing-svg) -->
 
