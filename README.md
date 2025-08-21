@@ -1,4 +1,4 @@
-> _**Winning isn’t everything, but wanting to win is.**_ - Vince Lombardi
+> _**The only way to do great work is to love what you do.**_ - Steve Jobs
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fira+code&color=%2300CCCC&center=true&vCenter=true&multiline=true&size=32&width=1200&height=130&lines=Hi+there+%F0%9F%91%8B;Welcome+to+my+Github+Profile;I'm+Yuran+-+a+Web+Developer)](https://git.io/typing-svg) -->
 
