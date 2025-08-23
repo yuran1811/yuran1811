@@ -1,4 +1,4 @@
-> _**I have been impressed with the urgency of doing. Knowing is not enough; we must apply. Being willing is not enough; we must do.**_ - Leonardo da Vinci
+> _**If you don’t like your destiny, don’t accept it. Instead, have the courage to change it the way you want it to be.**_ - Naruto Uzumaki
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fira+code&color=%2300CCCC&center=true&vCenter=true&multiline=true&size=32&width=1200&height=130&lines=Hi+there+%F0%9F%91%8B;Welcome+to+my+Github+Profile;I'm+Yuran+-+a+Web+Developer)](https://git.io/typing-svg) -->
 
