@@ -1,4 +1,4 @@
-> _**It doesn’t do any good to pretend you can’t see what’s going on.**_ - Yuuya Mochizuki
+> _**Forgetting is like a wound. The wound may heal, but it has already left a scar.**_ - Monkey D Luffy
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fira+code&color=%2300CCCC&center=true&vCenter=true&multiline=true&size=32&width=1200&height=130&lines=Hi+there+%F0%9F%91%8B;Welcome+to+my+Github+Profile;I'm+Yuran+-+a+Web+Developer)](https://git.io/typing-svg) -->
 
