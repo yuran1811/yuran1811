@@ -1,4 +1,4 @@
-> _**Life is not a game of luck. If you wanna win, work hard.**_ - Sora
+> _**The only way to do great work is to love what you do.**_ - Steve Jobs
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fira+code&color=%2300CCCC&center=true&vCenter=true&multiline=true&size=32&width=1200&height=130&lines=Hi+there+%F0%9F%91%8B;Welcome+to+my+Github+Profile;I'm+Yuran+-+a+Web+Developer)](https://git.io/typing-svg) -->
 
@@ -16,17 +16,19 @@
 
 <img src="https://skill-icons-livid.vercel.app/icons?i=firebase,supabase,mongo,sqlite,prisma&gap=60" height="36" />
 
+<img src="https://skill-icons-livid.vercel.app/icons?i=docker,terraform,ansible&gap=60" height="36" />
+
 <img src="https://skill-icons-livid.vercel.app/icons?i=latex,md,jupyter&gap=60" height="36" />
 
 ## Tools
 
 <img src="https://skill-icons-livid.vercel.app/icons?i=figma,ai,ps&gap=60" height="36" />
 
-<img src="https://skill-icons-livid.vercel.app/icons?i=obsidian,notion,git,vscode&gap=60" height="36" />
+<img src="https://skill-icons-livid.vercel.app/icons?i=obsidian,notion,jira,git,vscode&gap=60" height="36" />
 
 ## Plan
 
-<img src="https://skill-icons-livid.vercel.app/icons?i=nest,graphql,docker,redis&gap=60" height="36" />
+<img src="https://skill-icons-livid.vercel.app/icons?i=nest,graphql,redis&gap=60" height="36" />
 
 <img src="https://skill-icons-livid.vercel.app/icons?i=socketio,threejs,blender,opengl&gap=60" height="36" />
 
