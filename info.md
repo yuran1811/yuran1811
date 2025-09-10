@@ -14,17 +14,19 @@
 
 <img src="https://skill-icons-livid.vercel.app/icons?i=firebase,supabase,mongo,sqlite,prisma&gap=60" height="36" />
 
+<img src="https://skill-icons-livid.vercel.app/icons?i=docker,terraform,ansible&gap=60" height="36" />
+
 <img src="https://skill-icons-livid.vercel.app/icons?i=latex,md,jupyter&gap=60" height="36" />
 
 ## Tools
 
 <img src="https://skill-icons-livid.vercel.app/icons?i=figma,ai,ps&gap=60" height="36" />
 
-<img src="https://skill-icons-livid.vercel.app/icons?i=obsidian,notion,git,vscode&gap=60" height="36" />
+<img src="https://skill-icons-livid.vercel.app/icons?i=obsidian,notion,jira,git,vscode&gap=60" height="36" />
 
 ## Plan
 
-<img src="https://skill-icons-livid.vercel.app/icons?i=nest,graphql,docker,redis&gap=60" height="36" />
+<img src="https://skill-icons-livid.vercel.app/icons?i=nest,graphql,redis&gap=60" height="36" />
 
 <img src="https://skill-icons-livid.vercel.app/icons?i=socketio,threejs,blender,opengl&gap=60" height="36" />
 
