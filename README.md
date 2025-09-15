@@ -1,4 +1,4 @@
-> _**Fools who don’t respect the past are likely to repeat it.**_ - Nico Robin
+> _**People’s lives don’t end when they die, it ends when they lose faith.**_ - Itachi Uchiha
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fira+code&color=%2300CCCC&center=true&vCenter=true&multiline=true&size=32&width=1200&height=130&lines=Hi+there+%F0%9F%91%8B;Welcome+to+my+Github+Profile;I'm+Yuran+-+a+Web+Developer)](https://git.io/typing-svg) -->
 
@@ -24,7 +24,9 @@
 
 <img src="https://skill-icons-livid.vercel.app/icons?i=figma,ai,ps&gap=60" height="36" />
 
-<img src="https://skill-icons-livid.vercel.app/icons?i=obsidian,notion,jira,git,vscode&gap=60" height="36" />
+<img src="https://skill-icons-livid.vercel.app/icons?i=obsidian,notion,jira&gap=60" height="36" />
+
+<img src="https://skill-icons-livid.vercel.app/icons?i=git,vscode,androidstudio&gap=60" height="36" />
 
 ## Plan
 
