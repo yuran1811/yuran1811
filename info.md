@@ -22,7 +22,9 @@
 
 <img src="https://skill-icons-livid.vercel.app/icons?i=figma,ai,ps&gap=60" height="36" />
 
-<img src="https://skill-icons-livid.vercel.app/icons?i=obsidian,notion,jira,git,vscode&gap=60" height="36" />
+<img src="https://skill-icons-livid.vercel.app/icons?i=obsidian,notion,jira&gap=60" height="36" />
+
+<img src="https://skill-icons-livid.vercel.app/icons?i=git,vscode,androidstudio&gap=60" height="36" />
 
 ## Plan
 
