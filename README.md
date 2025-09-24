@@ -1,4 +1,4 @@
-> _**People often say that motivation doesn’t last. Well, neither does bathing.  That’s why we recommend it daily.**_ - Zig Ziglar
+> _**If you don’t take risks, you can’t create a future!**_ - Monkey D Luffy
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fira+code&color=%2300CCCC&center=true&vCenter=true&multiline=true&size=32&width=1200&height=130&lines=Hi+there+%F0%9F%91%8B;Welcome+to+my+Github+Profile;I'm+Yuran+-+a+Web+Developer)](https://git.io/typing-svg) -->
 
