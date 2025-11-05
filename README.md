@@ -1,4 +1,4 @@
-> _**Hard work is worthless for those that don’t believe in themselves.**_ - Naruto Uzumaki
+> _**It does not matter how slowly you go as long as you do not stop.**_ - Confucius
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fira+code&color=%2300CCCC&center=true&vCenter=true&multiline=true&size=32&width=1200&height=130&lines=Hi+there+%F0%9F%91%8B;Welcome+to+my+Github+Profile;I'm+Yuran+-+a+Web+Developer)](https://git.io/typing-svg) -->
 
