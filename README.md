@@ -1,4 +1,4 @@
-> _**The future belongs to those who believe in the beauty of their dreams.**_ - Eleanor Roosevelt
+> _**I would rather die of passion than of boredom.**_ - Vincent van Gogh
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fira+code&color=%2300CCCC&center=true&vCenter=true&multiline=true&size=32&width=1200&height=130&lines=Hi+there+%F0%9F%91%8B;Welcome+to+my+Github+Profile;I'm+Yuran+-+a+Web+Developer)](https://git.io/typing-svg) -->
 
