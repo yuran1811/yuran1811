@@ -1,4 +1,4 @@
-> _**When I stand before God at the end of my life, I would hope that I would not have a single bit of talent left and could say, I used everything you gave me.**_ - Erma Bombeck
+> _**When one door of happiness closes, another opens, but often we look so long at the closed door that we do not see the one that has been opened for us.**_ - Helen Keller
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fira+code&color=%2300CCCC&center=true&vCenter=true&multiline=true&size=32&width=1200&height=130&lines=Hi+there+%F0%9F%91%8B;Welcome+to+my+Github+Profile;I'm+Yuran+-+a+Web+Developer)](https://git.io/typing-svg) -->
 
