@@ -1,4 +1,4 @@
-> _**If you’re offered a seat on a rocket ship, don’t ask what seat! Just get on.**_ - Sheryl Sandberg
+> _**To act is not necessarily compassion. True compassion sometimes comes from inaction.**_ - Hinata Miyake
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fira+code&color=%2300CCCC&center=true&vCenter=true&multiline=true&size=32&width=1200&height=130&lines=Hi+there+%F0%9F%91%8B;Welcome+to+my+Github+Profile;I'm+Yuran+-+a+Web+Developer)](https://git.io/typing-svg) -->
 
