@@ -7,7 +7,7 @@ const DefaultQuote = {
 
 const getQuote = async () => {
   try {
-    const res = await fetch('https://quotes-api-self.vercel.app/quote');
+    const res = await fetch('https://quotes-api-pearl.vercel.app/quote');
     return res.ok ? await res.json() : DefaultQuote;
   } catch (err) {
     return DefaultQuote;
