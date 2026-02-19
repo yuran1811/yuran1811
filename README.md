@@ -1,4 +1,4 @@
-> _**The person who says it cannot be done should not interrupt the person who is doing it.**_ - Chinese Proverb
+> _**If nobody cares to accept you and wants you in this world, accept yourself and you will see that you don’t need them and their selfish ideas.**_ - Alibaba Saluja
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fira+code&color=%2300CCCC&center=true&vCenter=true&multiline=true&size=32&width=1200&height=130&lines=Hi+there+%F0%9F%91%8B;Welcome+to+my+Github+Profile;I'm+Yuran+-+a+Web+Developer)](https://git.io/typing-svg) -->
 
