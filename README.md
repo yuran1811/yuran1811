@@ -1,4 +1,4 @@
-> _**If you hear a voice within you say “you cannot paint,” then by all means paint and that voice will be silenced.**_ - Vincent Van Gogh
+> _**Sometimes, people are just mean. Don’t fight mean with mean. Hold your head high.**_ - Hinata Miyake
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fira+code&color=%2300CCCC&center=true&vCenter=true&multiline=true&size=32&width=1200&height=130&lines=Hi+there+%F0%9F%91%8B;Welcome+to+my+Github+Profile;I'm+Yuran+-+a+Web+Developer)](https://git.io/typing-svg) -->
 
