@@ -1,4 +1,4 @@
-> _**If the wind will not serve, take to the oars.**_ - Latin Proverb
+> _**Go confidently in the direction of your dreams.  Live the life you have imagined.**_ - Henry David Thoreau
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fira+code&color=%2300CCCC&center=true&vCenter=true&multiline=true&size=32&width=1200&height=130&lines=Hi+there+%F0%9F%91%8B;Welcome+to+my+Github+Profile;I'm+Yuran+-+a+Web+Developer)](https://git.io/typing-svg) -->
 
@@ -10,13 +10,13 @@
 
 <img src="https://skill-icons-livid.vercel.app/icons?i=html,css,js,ts,cpp,python,rust,aarch64,latex,md&gap=60" height="36" />
 
-<img src="https://skill-icons-livid.vercel.app/icons?i=vue,nuxt,react,nextjs,qwik,nodejs,express,pygame&gap=60" height="36" />
+<img src="https://skill-icons-livid.vercel.app/icons?i=vue,nuxt,react,nextjs,qwik,bun,nodejs,express,hono,pygame&gap=60" height="36" />
 
-<img src="https://skill-icons-livid.vercel.app/icons?i=tailwind,sass,bootstrap,tauri,raylib,arduino,platformio&gap=60" height="36" />
+<img src="https://skill-icons-livid.vercel.app/icons?i=tailwind,sass,bootstrap,tauri,raylib,arduino,platformio,gsap&gap=60" height="36" />
 
 <img src="https://skill-icons-livid.vercel.app/icons?i=firebase,supabase,mongo,sqlite,prisma,drizzle,redis&gap=60" height="36" />
 
-<img src="https://skill-icons-livid.vercel.app/icons?i=nx,docker,terraform,ansible,azure,azuredevops&gap=60" height="36" />
+<img src="https://skill-icons-livid.vercel.app/icons?i=nx,docker,terraform,ansible,nginx,azure,azuredevops&gap=60" height="36" />
 
 ## Tools
 
