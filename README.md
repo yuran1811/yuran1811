@@ -1,4 +1,4 @@
-> _**I didn’t fail the test. I just found 100 ways to do it wrong.**_ - Benjamin Franklin
+> _**Giving up kills people. When people reject giving up… they finally win the right to transcend humanity.**_ - Alucard
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fira+code&color=%2300CCCC&center=true&vCenter=true&multiline=true&size=32&width=1200&height=130&lines=Hi+there+%F0%9F%91%8B;Welcome+to+my+Github+Profile;I'm+Yuran+-+a+Web+Developer)](https://git.io/typing-svg) -->
 
