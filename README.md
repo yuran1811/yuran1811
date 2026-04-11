@@ -1,4 +1,4 @@
-> _**If you keep on hiding your true feelings, who is going to be happy? If you are sad, you should say it out loud!**_ - Haruhi Fujioka
+> _**Challenges are what make life interesting and overcoming them is what makes life meaningful.**_ - Joshua J. Marine
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fira+code&color=%2300CCCC&center=true&vCenter=true&multiline=true&size=32&width=1200&height=130&lines=Hi+there+%F0%9F%91%8B;Welcome+to+my+Github+Profile;I'm+Yuran+-+a+Web+Developer)](https://git.io/typing-svg) -->
 
