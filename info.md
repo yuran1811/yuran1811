@@ -6,15 +6,15 @@
 
 ## Skills
 
-<img src="https://skill-icons-livid.vercel.app/icons?i=html,css,js,ts,cpp,python,rust,aarch64,latex,md&gap=60" height="36" />
+<img src="https://skill-icons-livid.vercel.app/icons?i=html,css,js,ts,cpp,python,rust,solidity,aarch64,latex,md&gap=60" height="36" />
 
-<img src="https://skill-icons-livid.vercel.app/icons?i=vue,nuxt,react,nextjs,qwik,bun,nodejs,express,hono,pygame&gap=60" height="36" />
+<img src="https://skill-icons-livid.vercel.app/icons?i=vue,nuxt,react,nextjs,qwik,bun,nodejs,express,hono,nestjs,pygame&gap=60" height="36" />
 
 <img src="https://skill-icons-livid.vercel.app/icons?i=tailwind,sass,bootstrap,tauri,raylib,arduino,platformio,gsap&gap=60" height="36" />
 
 <img src="https://skill-icons-livid.vercel.app/icons?i=firebase,supabase,mongo,sqlite,prisma,drizzle,redis&gap=60" height="36" />
 
-<img src="https://skill-icons-livid.vercel.app/icons?i=nx,docker,terraform,ansible,nginx,azure,azuredevops&gap=60" height="36" />
+<img src="https://skill-icons-livid.vercel.app/icons?i=nx,docker,terraform,ansible,nginx,azure,azuredevops,sonarqube&gap=60" height="36" />
 
 ## Tools
 
@@ -26,9 +26,9 @@
 
 ## Plan
 
-<img src="https://skill-icons-livid.vercel.app/icons?i=nest,graphql,reactnative,kotlin&gap=60" height="36" />
+<img src="https://skill-icons-livid.vercel.app/icons?i=graphql,reactnative,kotlin&gap=60" height="36" />
 
-<img src="https://skill-icons-livid.vercel.app/icons?i=socketio,threejs,blender,opengl&gap=60" height="36" />
+<img src="https://skill-icons-livid.vercel.app/icons?i=threejs,blender,opengl&gap=60" height="36" />
 
 ## Contact
 
