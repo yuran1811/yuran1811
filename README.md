@@ -1,4 +1,4 @@
-> _**Forgetting is like a wound. The wound may heal, but it has already left a scar.**_ - Monkey D Luffy
+> _**There’s no shame in falling down! True shame is to not stand up again!**_ - Shintar Midorima
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fira+code&color=%2300CCCC&center=true&vCenter=true&multiline=true&size=32&width=1200&height=130&lines=Hi+there+%F0%9F%91%8B;Welcome+to+my+Github+Profile;I'm+Yuran+-+a+Web+Developer)](https://git.io/typing-svg) -->
 
