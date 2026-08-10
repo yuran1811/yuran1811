@@ -1,4 +1,4 @@
-> _**If you keep on hiding your true feelings, who is going to be happy? If you are sad, you should say it out loud!**_ - Haruhi Fujioka
+> _**Knowing you’re different is only the beginning. If you accept these differences you’ll be able to get past them and grow even closer.**_ - Miss Kobayashi
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fira+code&color=%2300CCCC&center=true&vCenter=true&multiline=true&size=32&width=1200&height=130&lines=Hi+there+%F0%9F%91%8B;Welcome+to+my+Github+Profile;I'm+Yuran+-+a+Web+Developer)](https://git.io/typing-svg) -->
 
