@@ -6,7 +6,7 @@
 
 ## Skills
 
-<img src="https://skill-icons-livid.vercel.app/icons?i=html,css,js,ts,cpp,python,rust,solidity,aarch64,latex,md&gap=60" height="36" />
+<img src="https://skill-icons-livid.vercel.app/icons?i=html,css,js,ts,cpp,python,swift,rust,solidity,aarch64,latex,md&gap=60" height="36" />
 
 <img src="https://skill-icons-livid.vercel.app/icons?i=vue,nuxt,react,nextjs,qwik,bun,nodejs,express,hono,nestjs,pygame&gap=60" height="36" />
 
@@ -22,7 +22,7 @@
 
 <img src="https://skill-icons-livid.vercel.app/icons?i=obsidian,notion,jira&gap=60" height="36" />
 
-<img src="https://skill-icons-livid.vercel.app/icons?i=git,vscode,androidstudio&gap=60" height="36" />
+<img src="https://skill-icons-livid.vercel.app/icons?i=git,vscode,xcode,androidstudio&gap=60" height="36" />
 
 ## Plan
 
