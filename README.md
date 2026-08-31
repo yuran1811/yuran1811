@@ -1,4 +1,4 @@
-> _**When one door of happiness closes, another opens, but often we look so long at the closed door that we do not see the one that has been opened for us.**_ - Helen Keller
+> _**Sometimes it’s necessary to do unnecessary things.**_ - Kanade Jinguuji
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fira+code&color=%2300CCCC&center=true&vCenter=true&multiline=true&size=32&width=1200&height=130&lines=Hi+there+%F0%9F%91%8B;Welcome+to+my+Github+Profile;I'm+Yuran+-+a+Web+Developer)](https://git.io/typing-svg) -->
 
@@ -8,7 +8,7 @@
 
 ## Skills
 
-<img src="https://skill-icons-livid.vercel.app/icons?i=html,css,js,ts,cpp,python,rust,solidity,aarch64,latex,md&gap=60" height="36" />
+<img src="https://skill-icons-livid.vercel.app/icons?i=html,css,js,ts,cpp,python,swift,rust,solidity,aarch64,latex,md&gap=60" height="36" />
 
 <img src="https://skill-icons-livid.vercel.app/icons?i=vue,nuxt,react,nextjs,qwik,bun,nodejs,express,hono,nestjs,pygame&gap=60" height="36" />
 
@@ -24,7 +24,7 @@
 
 <img src="https://skill-icons-livid.vercel.app/icons?i=obsidian,notion,jira&gap=60" height="36" />
 
-<img src="https://skill-icons-livid.vercel.app/icons?i=git,vscode,androidstudio&gap=60" height="36" />
+<img src="https://skill-icons-livid.vercel.app/icons?i=git,vscode,xcode,androidstudio&gap=60" height="36" />
 
 ## Plan
 
