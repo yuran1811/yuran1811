@@ -1,4 +1,4 @@
-> _**If you hear a voice within you say “you cannot paint,” then by all means paint and that voice will be silenced.**_ - Vincent Van Gogh
+> _**If you can’t do something, then don’t. Focus on what you can.**_ - Shiroe
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fira+code&color=%2300CCCC&center=true&vCenter=true&multiline=true&size=32&width=1200&height=130&lines=Hi+there+%F0%9F%91%8B;Welcome+to+my+Github+Profile;I'm+Yuran+-+a+Web+Developer)](https://git.io/typing-svg) -->
 
