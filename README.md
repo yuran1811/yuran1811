@@ -1,4 +1,4 @@
-> _**The best time to plant a tree was 20 years ago. The second best time is now.**_ - Chinese Proverb
+> _**The ticket to the future is always open.**_ - Vash The Stampede
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fira+code&color=%2300CCCC&center=true&vCenter=true&multiline=true&size=32&width=1200&height=130&lines=Hi+there+%F0%9F%91%8B;Welcome+to+my+Github+Profile;I'm+Yuran+-+a+Web+Developer)](https://git.io/typing-svg) -->
 
@@ -34,10 +34,10 @@
 
 ## Contact
 
-<a href="https://www.linkedin.com/in/yuran1811/"><img src="https://api.iconify.design/skill-icons:linkedin.svg" width="30" height="30"/></a> <img src="./src/_blank.png" width="15" height="30">
-<a href="https://www.facebook.com/YuranLegends/"><img src="https://api.iconify.design/logos:facebook.svg" width="30" height="30"/></a> <img src="./src/_blank.png" width="15" height="30">
-<a href="https://www.instagram.com/_yuranlegends_"><img src="https://api.iconify.design/skill-icons:instagram.svg" width="30" height="30"/></a> <img src="./src/_blank.png" width="15" height="30">
-<a href="https://www.youtube.com/channel/UCLXNBb-jZRS_3o_itGGrGRA?view_as=subscriber"><img src="https://api.iconify.design/logos:youtube-icon.svg" width="30" height="30"/></a> <img src="./src/_blank.png" width="15" height="30">
+<a href="https://www.linkedin.com/in/yuran1811/"><img src="https://api.iconify.design/skill-icons/linkedin.svg" width="30" height="30"/></a> <img src="./src/_blank.png" width="15" height="30">
+<a href="https://www.facebook.com/YuranLegends/"><img src="https://api.iconify.design/logos/facebook.svg" width="30" height="30"/></a> <img src="./src/_blank.png" width="15" height="30">
+<a href="https://www.instagram.com/_yuranlegends_"><img src="https://api.iconify.design/skill-icons/instagram.svg" width="30" height="30"/></a> <img src="./src/_blank.png" width="15" height="30">
+<a href="https://www.youtube.com/channel/UCLXNBb-jZRS_3o_itGGrGRA?view_as=subscriber"><img src="https://api.iconify.design/logos/youtube-icon.svg" width="30" height="30"/></a> <img src="./src/_blank.png" width="15" height="30">
 <a href="https://www.hackerrank.com/profile/yuran1811"><img src="https://skill-icons-livid.vercel.app/icons?i=hackerrank" height="30"/></a> <img src="./src/_blank.png" width="15" height="30">
 <a href="https://leetcode.com/u/trieuvanbd123"><img src="https://skill-icons-livid.vercel.app/icons?i=leetcode" height="30"/></a> <img src="./src/_blank.png" width="15" height="30">
 
