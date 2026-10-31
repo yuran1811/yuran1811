@@ -1,4 +1,4 @@
-> _**Start where you are. Use what you have.  Do what you can.**_ - Arthur Ashe
+> _**In order to succeed, your desire for success should be greater than your fear of failure.**_ - Bill Cosby
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fira+code&color=%2300CCCC&center=true&vCenter=true&multiline=true&size=32&width=1200&height=130&lines=Hi+there+%F0%9F%91%8B;Welcome+to+my+Github+Profile;I'm+Yuran+-+a+Web+Developer)](https://git.io/typing-svg) -->
 
@@ -44,6 +44,6 @@
 ## Stats
 
 <div align="center">
-	<img height="225" align="center" src="https://github-readme-stats-omega-one-73.vercel.app/api/top-langs/?username=yuran1811&layout=compact&theme=noctis_minimus&langs_count=10&hide=svg,shell,nwscript,cmake,pawn,makefile,procfile,batchfile,dockerfile,sdl,pascal,ejs,pov-ray%20sdl,jupyter%20notebook">
-	<img height="225" align="center" src="https://github-readme-stats-omega-one-73.vercel.app/api?username=yuran1811&show_icons=true&theme=noctis_minimus&show=reviews,prs_merged,prs_merged_percentage">
+	<img height="225" align="center" src="https://yustats.vercel.app/api/top-langs/?username=yuran1811&layout=compact&theme=noctis_minimus&langs_count=10&hide=svg,shell,nwscript,cmake,pawn,makefile,procfile,batchfile,dockerfile,sdl,pascal,ejs,pov-ray%20sdl,jupyter%20notebook">
+	<img height="225" align="center" src="https://yustats.vercel.app/api?username=yuran1811&show_icons=true&theme=noctis_minimus&show=reviews,prs_merged,prs_merged_percentage">
 </div>
